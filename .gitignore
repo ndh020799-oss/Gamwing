@@ -1,0 +1,6 @@
+.keys/
+signing_backup_*/
+*.apk
+*.png
+*.log
+*.tmp
