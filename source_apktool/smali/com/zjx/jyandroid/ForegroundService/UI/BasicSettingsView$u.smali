@@ -111,7 +111,7 @@
         }
     .end annotation
 
-    const/4 v0, 0x0
+    const/4 v0, 0x1
 
     invoke-virtual {p1, v0}, Lcom/addisonelliott/segmentedbutton/SegmentedButtonGroup;->setClickable(Z)V
 
@@ -125,17 +125,14 @@
 
     invoke-direct {v0}, Lcom/zjx/jyandroid/Extensions/pubg/f;-><init>()V
 
-    invoke-virtual {v0}, Lcom/zjx/jyandroid/Extensions/pubg/f;->getConnectionMode()I
+    invoke-virtual {v0, p2}, Lcom/zjx/jyandroid/Extensions/pubg/f;->setConnectionMode(I)V
 
-    move-result v0
+    invoke-static {}, LK6/m;->getInstance()LK6/m;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p2}, LK6/m;->setConnectionMode(I)V
 
     # p2 khác mode đã lưu -> trả UI về mode đã lưu.
-    if-eq p2, v0, :cond_0
-
-    const/4 v1, 0x1
-
-    invoke-virtual {p1, v0, v1}, Lcom/addisonelliott/segmentedbutton/SegmentedButtonGroup;->setPosition(IZ)V
-
-    :cond_0
     return-void
 .end method

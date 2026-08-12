@@ -936,4 +936,6 @@ Liên kết chuột: mỗi lần bạn nhấn phím nóng, mô phỏng thao tác
     <string name="gyro_mode_off">Tắt</string>
     <string name="gyro_mode_fire_only">Chỉ khi bắn</string>
     <string name="gyro_mode_always_on">Luôn bật</string>
+    <string name="gyro_module_install_title">Cài đặt Module Gyro</string>
+    <string name="gyro_module_install_button">Cài đặt</string>
 </resources>

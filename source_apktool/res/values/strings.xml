@@ -1236,4 +1236,6 @@ Liên kết chuột: mỗi lần bạn nhấn phím nóng, mô phỏng thao tác
     <string name="gyro_mode_off">Off</string>
     <string name="gyro_mode_fire_only">Fire only</string>
     <string name="gyro_mode_always_on">Always on</string>
+    <string name="gyro_module_install_title">Install Gyro Module</string>
+    <string name="gyro_module_install_button">Install</string>
 </resources>
