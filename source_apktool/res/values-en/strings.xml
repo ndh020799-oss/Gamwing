@@ -1,0 +1,2402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="NO_USE_server_side_error_NO_USE">Get the reason from the server</string>
+  <string name="ab_mini_pro_name">
+AoBing Mini Pro</string>
+  <string name="abc_action_bar_home_description">
+Return to APP</string>
+  <string name="abc_action_bar_up_description">
+Move up</string>
+  <string name="abc_action_menu_overflow_description">
+Other options</string>
+  <string name="abc_action_mode_done">
+Done</string>
+  <string name="abc_activity_chooser_view_see_all">
+See all</string>
+  <string name="abc_activitychooserview_choose_application">
+Select 1 application</string>
+  <string name="abc_capital_off">
+OFF</string>
+  <string name="abc_capital_on">
+ON</string>
+  <string name="abc_menu_alt_shortcut_label">
+Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">
+Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">
+delete</string>
+  <string name="abc_menu_enter_shortcut_label">
+enter. enter</string>
+  <string name="abc_menu_function_shortcut_label">
+Function+</string>
+  <string name="abc_menu_meta_shortcut_label">
+Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">
+Shift+</string>
+  <string name="abc_menu_space_shortcut_label">
+space</string>
+  <string name="abc_menu_sym_shortcut_label">
+Sym+</string>
+  <string name="abc_prepend_shortcut_label">
+Menu+</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">
+Delete query</string>
+  <string name="abc_searchview_description_query">
+Search query</string>
+  <string name="abc_searchview_description_search">
+Search</string>
+  <string name="abc_searchview_description_submit">
+Submit query</string>
+  <string name="abc_searchview_description_voice">
+Voice search</string>
+  <string name="abc_shareactionprovider_share_with">
+Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">
+Share with %s</string>
+  <string name="abc_toolbar_collapse_description">
+Collapse</string>
+  <string name="activate">
+Activate</string>
+  <string name="activation_mode_device_by_device">
+One device at a time.</string>
+  <string name="activation_mode_root">
+Root</string>
+  <string name="activation_mode_shizuku">
+Shizuku</string>
+  <string name="activation_mode_wired">
+Wired/Computer</string>
+  <string name="activation_mode_wireless">
+Wireless</string>
+  <string name="activity_activate_another_device_header_prompt_need_authorized">
+On the other device, please select \"Always allow from this computer\" and press the OK button.</string>
+  <string name="activity_activate_another_device_header_prompt_not_connected">
+"Please connect to the device that needs to be activated using a USB cable.
+If this device displays a request to allow access to other devices, please press **OK**."</string>
+  <string name="activity_activate_another_device_prompt_before_connected">
+Important: You may need to reconnect the cable several times for this device to recognize the connection to the other device that needs to be activated. When you see one device charging the other, it usually means the device has successfully recognized the other device.</string>
+  <string name="activity_activate_another_device_prompt_successfully_activated">
+The other phone is activated! Click **OK** to leave this page.</string>
+  <string name="activity_activate_another_device_title">
+Activate another device</string>
+  <string name="activity_customize_pointer_style_top_bar_title">Customize cursor style</string>
+  <string name="activity_login_text1">
+Log in with your phone</string>
+  <string name="activity_login_text2">
+New users will be automatically registered after successful login</string>
+  <string name="activity_login_text3">
+Please enter phone number</string>
+  <string name="activity_login_text4">
+Verify and Sign In</string>
+  <string name="activity_login_text5">
+I have read and agree to the \"User Agreement\" and \"Privacy Policy\"</string>
+  <string name="activity_login_email_hint">
+Email</string>
+  <string name="activity_login_password_hint">
+Password</string>
+  <string name="activity_login_google">
+Sign in with Google</string>
+  <string name="activity_manage_adb_root_text1">
+Root activation</string>
+  <string name="activity_manage_adb_root_text2">
+Click to Activate</string>
+  <string name="activity_manage_adb_root_text3">
+If activation fails, please check whether you have granted full permissions to the application</string>
+  <string name="activity_manage_adb_shizuku_button_text_grant_permission">
+Granted</string>
+  <string name="activity_manage_adb_shizuku_button_text_navigate_to_shizuku">
+Go</string>
+  <string name="activity_manage_adb_shizuku_button_text_permission_granted">
+Granted</string>
+  <string name="activity_manage_adb_shizuku_button_text_shizuku_already_running">
+Completed</string>
+  <string name="activity_manage_adb_shizuku_error_message_unable_to_navigate_shizuku">
+Unable to access Shizuku. Please ensure that Shizuku is installed on your device. If installed, you can open the Shizuku app manually and start the server in the Shizuku app.</string>
+  <string name="activity_manage_adb_shizuku_header">
+Activate with Shizuku</string>
+  <string name="activity_manage_adb_shizuku_title_click_to_activate">
+3. Click to activate</string>
+  <string name="activity_manage_adb_shizuku_title_grant_permission">
+2. Grant permission to use Shizuku</string>
+  <string name="activity_manage_adb_shizuku_title_run_shizuku_server">1. Start the Shizuku service</string>
+  <string name="activity_manage_adb_wireless_navigate_grant_notification_permission">
+After pressing OK, navigate to settings to grant notification permissions.</string>
+  <string name="activity_manage_adb_wireless_restart_wireless_debugging">
+If this option is not detected correctly, please re-enable the wireless debugging option.</string>
+  <string name="activity_manage_adb_wireless_text1">
+5. Click to activate</string>
+  <string name="activity_manage_adb_wireless_text10">
+Pairing timed out</string>
+  <string name="activity_manage_adb_wireless_text11">
+Can\'t go back</string>
+  <string name="activity_manage_adb_wireless_text12">
+Connect</string>
+  <string name="activity_manage_adb_wireless_text13">
+pairing</string>
+  <string name="activity_manage_adb_wireless_text14">
+Double</string>
+  <string name="activity_manage_adb_wireless_text2">
+Click to unpair</string>
+  <string name="activity_manage_adb_wireless_text3">
+Wireless activation tool</string>
+  <string name="activity_manage_adb_wireless_text4">
+3. Navigate to Settings for Pairing/Connection</string>
+  <string name="activity_manage_adb_wireless_text5">
+Split screen mode</string>
+  <string name="activity_manage_adb_wireless_text6">
+4. Wait for the gate to open automatically</string>
+  <string name="activity_manage_adb_wireless_text7">
+If there is no response for a long time, please unpair and re-pair</string>
+  <string name="activity_manage_adb_wireless_text8">
+After clicking OK, navigate to the settings to give permissions to the overlay window</string>
+  <string name="activity_manage_adb_wireless_text9">
+Pairing canceled</string>
+  <string name="activity_manage_adb_wireless_turn_on_wireless_debugging">
+3. Enable wireless debugging.</string>
+  <string name="activity_manage_permission_text1">
+Runs in background mode</string>
+  <string name="activity_manage_permission_text2">
+Joystick mode Required permissions</string>
+  <string name="activity_manage_permission_text3">Device location permissions</string>
+  <string name="activity_manage_permission_text4">
+Bluetooth scanning permissions</string>
+  <string name="activity_manage_permission_text5">
+Bluetooth connection permissions</string>
+  <string name="activity_manage_permission_text6">
+This app needs background permission to avoid stopping the APP when running in the background</string>
+  <string name="activty_add_game_add_game">
+More games</string>
+  <string name="activty_ota_text1">
+Main chip version：</string>
+  <string name="activty_ota_text2">
+BT Chip Version：</string>
+  <string name="activty_ota_text3">
+Click to start</string>
+  <string name="activty_ota_text4">
+Current stage：</string>
+  <string name="activty_ota_text5">
+Progress:</string>
+  <string name="activty_ota_title">
+OTA</string>
+  <string name="adb_activated">
+Activate</string>
+  <string name="adb_activating">
+Activate</string>
+  <string name="adb_error_key_store">
+Internal error.</string>
+  <string name="adb_not_loaded_prompt_main_page_view">
+Not activated yet. Cannot play.</string>
+  <string name="adb_pair_floating_view_text1">
+Pairing code</string>
+  <string name="adb_pair_floating_view_text2">
+Gate</string>
+  <string name="adb_pair_floating_view_text3">
+Activate</string>
+  <string name="adb_pair_floating_view_text4">
+Switch</string>
+  <string name="adb_pair_floating_view_text5">
+Return to the application</string>
+  <string name="adb_pairing">Pairing.</string>
+  <string name="adb_required_prompt">
+Please activate first. Click OK to be redirected to the activation tool. You can also reactivate following the prompts in the activation management section located in More - Activation Assistant</string>
+  <string name="add">
+Add</string>
+  <string name="adjust_coefficient_view_text1">
+AR silencer</string>
+  <string name="adjust_coefficient_view_text10">
+T.c thumb</string>
+  <string name="adjust_coefficient_view_text11">
+Lasers</string>
+  <string name="adjust_coefficient_view_text12">
+Bang</string>
+  <string name="adjust_coefficient_view_text2">
+Hide SMG fire</string>
+  <string name="adjust_coefficient_view_text3">
+Brake shock</string>
+  <string name="adjust_coefficient_view_text4">
+Reduce sparks</string>
+  <string name="adjust_coefficient_view_text5">
+Silencer SR</string>
+  <string name="adjust_coefficient_view_text6">
+T.c standing</string>
+  <string name="adjust_coefficient_view_text7">
+Sensory structure</string>
+  <string name="adjust_coefficient_view_text8">
+Half t.c</string>
+  <string name="adjust_coefficient_view_text9">
+Light t.c</string>
+  <string name="adjust_dynamic_rc_value_view_text1">
+Weapon：</string>
+  <string name="adjust_dynamic_rc_value_view_text10">
+Save failed. Code 2</string>
+  <string name="adjust_dynamic_rc_value_view_text11">
+Data validation error. Code 3</string>
+  <string name="adjust_dynamic_rc_value_view_text12">
+Data validation error. Code 4</string>
+  <string name="adjust_dynamic_rc_value_view_text13">
+Data validation error. Code 5</string>
+  <string name="adjust_dynamic_rc_value_view_text14">Save failed. Cannot write file</string>
+  <string name="adjust_dynamic_rc_value_view_text15">
+Please select at least one point</string>
+  <string name="adjust_dynamic_rc_value_view_text16">
+Unable to Delete Underlying Data Points. Please choose another one</string>
+  <string name="adjust_dynamic_rc_value_view_text17">
+%.2f s</string>
+  <string name="adjust_dynamic_rc_value_view_text18">
+Tip: Press and hold the left CTRL or WIN key to activate the multi-selection function</string>
+  <string name="adjust_dynamic_rc_value_view_text19">
+Multi-choice</string>
+  <string name="adjust_dynamic_rc_value_view_text2">
+Time：</string>
+  <string name="adjust_dynamic_rc_value_view_text3">
+Delete</string>
+  <string name="adjust_dynamic_rc_value_view_text4">
+Save</string>
+  <string name="adjust_dynamic_rc_value_view_text5">
+Insert</string>
+  <string name="adjust_dynamic_rc_value_view_text6">
+Delete</string>
+  <string name="adjust_dynamic_rc_value_view_text7">
+Refresh</string>
+  <string name="adjust_dynamic_rc_value_view_text8">
+"Time:%1$s
+Value:%2$s"</string>
+  <string name="adjust_dynamic_rc_value_view_text9">
+Save failed. Code 1</string>
+  <string name="adjust_rc_value_base_view_text1">
+Value</string>
+  <string name="adjust_rc_value_base_view_text2">
+Dynamic</string>
+  <string name="adjust_rc_value_base_view_text3">
+Coefficient</string>
+  <string name="adjust_rc_value_base_view_text4">
+Delete</string>
+  <string name="adjust_rc_value_component_text1">
+Increase the pin</string>
+  <string name="adjust_rc_value_component_text2">
+Reduce clamping</string>
+  <string name="adjust_rc_value_floating_panel_text2">An error has occurred</string>
+  <string name="adjust_rc_value_floating_panel_text3">
+Click delete first. Otherwise the coefficients will not be valid.</string>
+  <string name="adjust_rc_value_panel_view_text1">
+Adjust value</string>
+  <string name="adjust_rc_value_panel_view_text2">
+Save</string>
+  <string name="adjust_rc_value_settings__help1">
+The adjustment value can be set here. Each time the key is pressed, the value will increase/decrease by a corresponding value</string>
+  <string name="adjust_rc_value_settings__text1">
+Adjustment value:</string>
+  <string name="adjust_rc_value_settings_prompt">
+After linking the button, the button can be pressed to adjust the recoil increase/decrease value. It replaces the default navigation key (CTRL+mousewheel). After adding this key, the default key will be invalid, you can watch more on Youtube GAMWING</string>
+  <string name="androidx_startup">
+androidx.startup</string>
+  <string name="app_load_adb_activity_alert_activation_mode_phone_to_phone">
+By another phone</string>
+  <string name="app_load_adb_activity_alert_activation_mode_root">
+Activate by Root</string>
+  <string name="app_load_adb_activity_alert_activation_mode_wired">
+Wired/computer activation</string>
+  <string name="app_load_adb_activity_alert_activation_mode_wireless">
+Wireless enabled</string>
+  <string name="app_load_adb_activity_alert_select_activation_prompt">
+Please select activation method. If you want to change the activation method in the future, you can do so in the App by tapping More - Activation Method Options.</string>
+  <string name="app_load_server_activity_alert_select_activation_prompt">
+Please select keymap server. Choose the server closest to your country. Users in Brazil should choose USA servers.</string>
+  <string name="app_load_server_activity_alert_server_china">
+China</string>
+  <string name="app_load_server_activity_alert_server_hongkong">
+Hong Kong</string>
+  <string name="app_load_server_activity_alert_server_usa">
+USA</string>
+  <string name="app_name">
+GAMWING 2 PRO</string>
+  <string name="app_name_cn">
+GAMWING 2 PRO</string>
+  <string name="app_process_event_injector_need_security_settings_permission_prompt">
+Please find the \"USB Debugging (Security Settings)\" option in Developer Options and enable it, otherwise you will not be able to use the click function.</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="apply">
+Apply</string>
+  <string name="basic_settings_adb_connection_type">
+ADBConnectionType</string>
+  <string name="basic_settings_enable_virtual_mouse">
+VirtualMouseEnabled</string>
+  <string name="basic_settings_header_basic_settings">
+Basic Settings</string>
+  <string name="basic_settings_header_hardware_settings">
+Hardware Settings</string>
+  <string name="basic_settings_header_mouse_settings">
+Mouse Settings</string>
+  <string name="basic_settings_mouse_pointer_style_1">
+Type 1</string>
+  <string name="basic_settings_mouse_pointer_style_2">
+Type 2</string>
+  <string name="basic_settings_mouse_pointer_style_3">
+Type 3</string>
+  <string name="basic_settings_mouse_pointer_style_4">
+Type 4</string>
+  <string name="basic_settings_mouse_pointer_style_5">
+Type 5</string>
+  <string name="basic_settings_mouse_pointer_style_customize">
+Customize</string>
+  <string name="basic_settings_native_mouse_report_rate_force_125hz">
+125hz</string>
+  <string name="basic_settings_native_mouse_report_rate_force_250hz">
+250hz</string>
+  <string name="basic_settings_native_mouse_report_rate_force_500hz">
+500hz</string>
+  <string name="basic_settings_native_mouse_report_rate_no_limit">
+Unlimited</string>
+  <string name="basic_settings_need_upload_pointer_style_prompt">
+You must upload a cursor image. Go to Apps - More - Customize Mouse Style.</string>
+  <string name="basic_settings_subtitle_native_mouse_report_rate">
+Set this lower if you use a low-performance phone.</string>
+  <string name="basic_settings_subtitle_show_component_indicator">
+Press **F9** to switch display status.</string>
+  <string name="basic_settings_text1">Mouse smoothness</string>
+  <string name="basic_settings_text10">
+Supplement</string>
+  <string name="basic_settings_text11">
+Please update to the latest firmware</string>
+  <string name="basic_settings_text15">
+You need a high performance mobile phone/tablet to select this option. Otherwise, there may be delays when you play the game. If latency is a problem, you should choose a return rate of 500hz or lower! Are you sure you want to select polling rate 1000hz?</string>
+  <string name="basic_settings_text16">
+Mouse click acceleration</string>
+  <string name="basic_settings_text17">
+Please press Key/Mouse</string>
+  <string name="basic_settings_text2">
+Low</string>
+  <string name="basic_settings_text3">
+High</string>
+  <string name="basic_settings_text4">
+Max</string>
+  <string name="basic_settings_text8">
+Customize cursor image</string>
+  <string name="basic_settings_text9">
+Means</string>
+  <string name="basic_settings_title">
+Basic settings</string>
+  <string name="basic_settings_title_customize_mouse_pointer_style">
+Custom Pointer Style</string>
+  <string name="basic_settings_title_enable_mouse_pointer">
+Enable Mouse Pointer</string>
+  <string name="basic_settings_title_hud_color">
+HUD color</string>
+  <string name="basic_settings_title_logo_alpha">
+Mouse Logo Transparency</string>
+  <string name="basic_settings_title_mouse_pointer_sensitivity">
+Mouse pointer sensitivity</string>
+  <string name="basic_settings_title_mouse_pointer_size">
+Mouse pointer size</string>
+  <string name="basic_settings_title_native_mouse_report_rate">
+Maximum frequency of the mouse</string>
+  <string name="basic_settings_title_show_component_indicator">
+Display HUD</string>
+  <string name="basic_settings_title_show_touch_paths">Show touch lines</string>
+  <string name="basic_settings_title_stable_mode">
+Stable Mode</string>
+  <string name="basic_settings_title_wangzuo_polling_rate">
+Machine scanning frequency</string>
+  <string name="basic_settings_view_sc_text1">
+Basic settings</string>
+  <string name="basic_settings_view_sc_text2">
+Show touch path</string>
+  <string name="basic_settings_view_sc_text3">
+Show keymap</string>
+  <string name="basic_settings_view_sc_text4">
+The length of the dotted lines on the keymap</string>
+  <string name="basic_settings_view_sc_text5">
+Interval of dotted lines on keymap</string>
+  <string name="basic_settings_view_sc_text6">
+Width of dotted lines on keymap</string>
+  <string name="basic_settings_virtual_mouse_sensitivity">
+VirtualMouseSensitivity</string>
+  <string name="basic_settings_virtual_mouse_size">
+VirtualMouseSize</string>
+  <string name="block_touch">
+Touch block</string>
+  <string name="bottom_sheet_behavior">
+com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+  <string name="bottomsheet_action_collapse">
+Collapse the bottom panel</string>
+  <string name="bottomsheet_action_expand">
+Expand the bottom panel</string>
+  <string name="bottomsheet_action_expand_halfway">
+Half extended</string>
+  <string name="bottomsheet_drag_handle_clicked">
+Drag handle double-tapped</string>
+  <string name="bottomsheet_drag_handle_content_description">
+Scissor handle</string>
+  <string name="cancel">
+Cancel</string>
+  <string name="cannot_connect_port">
+Unable to connect to the wireless debugging service.</string>
+  <string name="character_counter_content_description">Entered %1$d of %2$d characters</string>
+  <string name="character_counter_overflowed_content_description">
+The character limit %1$d/%2$d has been exceeded</string>
+  <string name="character_counter_pattern">
+%1$d/%2$d</string>
+  <string name="clear">
+Refresh</string>
+  <string name="clear_text_end_icon_content_description">
+Delete text</string>
+  <string name="close">
+Close</string>
+  <string name="coming_soon">
+Coming soon</string>
+  <string name="common_google_play_services_unknown_issue">
+are having problems with Google Play services. Please try again.</string>
+  <string name="component_settings_bind_key">
+Keys:</string>
+  <string name="component_settings_container_view_fps_view_btn">
+FPS view</string>
+  <string name="component_settings_container_view_free_look_btn">
+Look at Freedom</string>
+  <string name="component_settings_container_view_joystick_btn">
+Joystick</string>
+  <string name="component_settings_container_view_long_press_trigger_btn">
+Press and hold group</string>
+  <string name="component_settings_container_view_macro_btn">
+Key macros</string>
+  <string name="component_settings_container_view_more_btn">
+Add</string>
+  <string name="component_settings_container_view_normal_touch_btn">
+Touch</string>
+  <string name="component_settings_container_view_sc_text1">
+Touch normally</string>
+  <string name="component_settings_container_view_sc_text2">
+Macro settings</string>
+  <string name="component_settings_container_view_sc_text3">
+joystick</string>
+  <string name="component_settings_container_view_sc_text4">
+Terminate macros</string>
+  <string name="component_settings_container_view_scroll_btn">Mouse scroll</string>
+  <string name="component_settings_container_view_show_all_btn">
+Show more</string>
+  <string name="component_settings_container_view_swipe_touch_btn">
+Swipe</string>
+  <string name="component_settings_delay_trigger">
+Latency (ms)</string>
+  <string name="component_settings_press_any_key">
+Press the key</string>
+  <string name="connect">
+Connect</string>
+  <string name="copy">
+Copy</string>
+  <string name="copy_success">
+Copied successfully</string>
+  <string name="cross_hair_extension_text1">
+Install the cross</string>
+  <string name="crosshair_settings_view_text1">
+Display crosshairs</string>
+  <string name="crosshair_settings_view_text10">
+Color</string>
+  <string name="crosshair_settings_view_text11">
+Red</string>
+  <string name="crosshair_settings_view_text12">
+Green</string>
+  <string name="crosshair_settings_view_text13">
+Blue</string>
+  <string name="crosshair_settings_view_text14">
+Transparent</string>
+  <string name="crosshair_settings_view_text15">
+Horizontal deviation</string>
+  <string name="crosshair_settings_view_text16">
+Vertical deviation</string>
+  <string name="crosshair_settings_view_text2">
+Hide When Aiming</string>
+  <string name="crosshair_settings_view_text3">
+Custom crosshair style</string>
+  <string name="crosshair_settings_view_text4">
+Cross type</string>
+  <string name="crosshair_settings_view_text9">Size</string>
+  <string name="current_device">
+Current device:%1$s</string>
+  <string name="custom_pubg_recognition_assets_view_text1">
+(Assets added by users)</string>
+  <string name="custom_pubg_recognition_assets_view_text2">
+Recommended content: %1$dx%2$d</string>
+  <string name="delete">
+Delete</string>
+  <string name="delete_success">
+Deleted successfully</string>
+  <string name="device_info_plugin_settings_battery_usage_graph_view_maximum_battery_usage">
+Maximum battery percentage:</string>
+  <string name="device_info_plugin_settings_battery_usage_graph_view_minimum_battery_usage">
+Minimum battery percentage:</string>
+  <string name="device_info_plugin_settings_battery_usage_graph_view_title">
+Graph viewer battery usage</string>
+  <string name="device_info_plugin_settings_fps_graph_view_average_fps">
+Average FPS:</string>
+  <string name="device_info_plugin_settings_fps_graph_view_maximum_fps">
+Maximum FPS:</string>
+  <string name="device_info_plugin_settings_fps_graph_view_minimum_fps">
+Minimum FPS:</string>
+  <string name="device_info_plugin_settings_fps_graph_view_title">
+FPS graph viewer</string>
+  <string name="device_info_plugin_settings_header_basic_settings">
+Basic settings</string>
+  <string name="device_info_plugin_settings_header_customize_display_content">
+Customize display content</string>
+  <string name="device_info_plugin_settings_refresh_rate_high">
+High</string>
+  <string name="device_info_plugin_settings_refresh_rate_low">
+Low</string>
+  <string name="device_info_plugin_settings_refresh_rate_medium">
+Average</string>
+  <string name="device_info_plugin_settings_subtitle_refresh_rate">
+Higher refresh rates may affect performance.</string>
+  <string name="device_info_plugin_settings_temperature_graph_view_average_temperature">
+Average temperature:</string>
+  <string name="device_info_plugin_settings_temperature_graph_view_maximum_temperature">Maximum temperature:</string>
+  <string name="device_info_plugin_settings_temperature_graph_view_minimum_temperature">
+Minimum temperature:</string>
+  <string name="device_info_plugin_settings_temperature_graph_view_title">
+CPU temperature graph viewer</string>
+  <string name="device_info_plugin_settings_title">
+Device Information Monitoring Settings</string>
+  <string name="device_info_plugin_settings_title_battery_level">
+Current battery level</string>
+  <string name="device_info_plugin_settings_title_battery_usage_graph">
+Record battery usage</string>
+  <string name="device_info_plugin_settings_title_cpu_temperature">
+CPU temperature</string>
+  <string name="device_info_plugin_settings_title_cpu_temperature_graph">
+CPU temperature record</string>
+  <string name="device_info_plugin_settings_title_cpu_usage">
+CPU Usage</string>
+  <string name="device_info_plugin_settings_title_enable_plugin">
+Enable device information monitoring</string>
+  <string name="device_info_plugin_settings_title_fixed_panel">
+Fixed control panel</string>
+  <string name="device_info_plugin_settings_title_fps_graph">
+FPS speed record</string>
+  <string name="device_info_plugin_settings_title_fps_rate">
+FPS speed</string>
+  <string name="device_info_plugin_settings_title_internet_speed">
+Current download/upload speed</string>
+  <string name="device_info_plugin_settings_title_play_time">
+Playtime</string>
+  <string name="device_info_plugin_settings_title_refresh_rate">
+Refresh rate</string>
+  <string name="device_info_plugin_settings_title_router_latency">
+Router latency</string>
+  <string name="device_info_plugin_settings_title_time">
+Current time</string>
+  <string name="device_type_global_software">
+Global software</string>
+  <string name="dialog_adb_pairing_discovery">
+Looking for pairing service.</string>
+  <string name="dialog_adb_pairing_paring_code">Pairing code.</string>
+  <string name="dialog_adb_pairing_title">
+Pair with device.</string>
+  <string name="edit_crazy_tap_weapons_view_text1">
+Edit weapons</string>
+  <string name="ellipsis">
+…</string>
+  <string name="empty">
+Blank</string>
+  <string name="enter_game_tips_hide_mouse">
+Tip: Press the mouse scroll wheel to hide the mouse pointer by default. You can change this setting in the keymap editor.</string>
+  <string name="enter_new_name_prompt">
+Please enter a new name</string>
+  <string name="error">
+Error</string>
+  <string name="error_a11y_label">
+Error: invalid</string>
+  <string name="error_icon_content_description">
+Error</string>
+  <string name="event_injector_text1">
+Please enable \"USB Debugging (Security Settings)\" option in developer settings, otherwise this app will not work</string>
+  <string name="exit">
+Exit</string>
+  <string name="exposed_dropdown_menu_content_description">
+Displays the drop-down menu</string>
+  <string name="fab_transformation_scrim_behavior">
+com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">
+com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+  <string name="finish">
+Close</string>
+  <string name="fix">
+Edit</string>
+  <string name="fix_failed">
+Repair failed</string>
+  <string name="fix_success">
+Repaired successfully</string>
+  <string name="floating_object_manager_text1">
+Please add at least one keymap element and bind hotkeys before clicking save</string>
+  <string name="floating_object_manager_text2">Saving...</string>
+  <string name="floating_object_manager_text3">
+Save failed. Error message：</string>
+  <string name="floating_object_manager_text4">
+Keymap uploaded successfully but applying as default keymap failed. Error message:</string>
+  <string name="floating_object_manager_text5">
+Cannot select keymap. Error message:</string>
+  <string name="fps_view_settings_freefire_acceleration">
+Freefire adjusts acceleration (Higher value = heavy, lower value = more acceleration)</string>
+  <string name="fps_view_settings_prompt">
+According to the mouse movements, simulate fingers to control the game view. The lock key must be set. Press the button to switch the display state of the mouse pointer</string>
+  <string name="fps_view_settings_reset_view_title">
+Reset View shortcut (Pause twice):</string>
+  <string name="fps_view_settings_show_mouse_position_last_hidden_position">
+Finally - Hidden</string>
+  <string name="fps_view_settings_text1">
+Key display:</string>
+  <string name="fps_view_settings_text10">
+Click</string>
+  <string name="fps_view_settings_text11">
+Horizontal Sensitivity (Moved)</string>
+  <string name="fps_view_settings_text12">
+Vertical Sensitivity (Converted)</string>
+  <string name="fps_view_settings_text13">
+Only release when the limit is reached</string>
+  <string name="fps_view_settings_text14">
+Edge release interval (ms)</string>
+  <string name="fps_view_settings_text15">
+Release delay (ms)</string>
+  <string name="fps_view_settings_text16">
+Tap delay (ms)</string>
+  <string name="fps_view_settings_text17">
+Custom frames</string>
+  <string name="fps_view_settings_text18">
+Turn on Mouse Acceleration</string>
+  <string name="fps_view_settings_text19">
+Acceleration coefficient</string>
+  <string name="fps_view_settings_text2">
+Display location</string>
+  <string name="fps_view_settings_text20">Minimum effective speed</string>
+  <string name="fps_view_settings_text21">
+Acceleration limit</string>
+  <string name="fps_view_settings_text22">
+Acceleration value</string>
+  <string name="fps_view_settings_text3">
+Center</string>
+  <string name="fps_view_settings_text4">
+Customize</string>
+  <string name="fps_view_settings_text5">
+Horizontal sensitivity</string>
+  <string name="fps_view_settings_text6">
+Vertical sensitivity</string>
+  <string name="fps_view_settings_text7">
+Switch sensitivity key</string>
+  <string name="fps_view_settings_text8">
+No conversion</string>
+  <string name="fps_view_settings_text9">
+Long press</string>
+  <string name="free_look_component_settings_view_prompt">
+Please align the Free Look element with the Free Look button in the game (if available). After alignment, press the assigned key and move the mouse to look freely in the game.</string>
+  <string name="free_look_component_settings_view_title_reset_on_edge">
+Reset when at the edge</string>
+  <string name="free_look_component_settings_view_title_sensitivity">
+Sensitivity</string>
+  <string name="game_list_main_page_view">
+More games:</string>
+  <string name="general_rc_adjust_rc_value_view_crazy_tap_button">
+Crazy Tap</string>
+  <string name="general_rc_adjust_rc_value_view_crazy_tap_duration_text">
+Time lasts</string>
+  <string name="general_rc_adjust_rc_value_view_crazy_tap_interval_text">
+Time period</string>
+  <string name="general_rc_adjust_rc_value_view_crazy_tap_settings_header">
+Crazy Tap Settings</string>
+  <string name="general_rc_adjust_rc_value_view_enable_crazy_tap_switch_text">
+Enable Crazy Tap</string>
+  <string name="general_rc_adjust_rc_value_view_toast_add_conditional_crazy_tap_component">
+To enable the crazy tap feature, you need to add a conditional crazy tap component in the keymap editor. To add this element, you can double click on any element in the keymap editor to enter the settings. Then click the Add button in the left panel. Next, change the type to Conditional Crazy Tap, and save the keymap.</string>
+  <string name="general_rc_adjust_rc_value_view_value_text">Anti-shock value</string>
+  <string name="general_rc_component_text_conditional_crazy_tap">
+Crazy Tap</string>
+  <string name="general_rc_extension_adjust_dynamic_rc_value_view_mode_horizontal">
+Horizontally</string>
+  <string name="general_rc_extension_adjust_dynamic_rc_value_view_mode_vertical">
+Vertically</string>
+  <string name="general_rc_extension_settings_view_text1">
+Turn on recoil control</string>
+  <string name="general_rc_extension_settings_view_text2">
+keys</string>
+  <string name="general_rc_extension_settings_view_text3">
+configuration</string>
+  <string name="general_rc_extension_settings_view_text4">
+Please press the key/mouse</string>
+  <string name="general_rc_extension_text1">
+Automatic generation of recoil control data failed. Manually generate data and restart the AI ​​recoil control system.</string>
+  <string name="general_rc_extension_text2">
+Unable to enable recoil control: Error loading recoil control configuration</string>
+  <string name="general_rc_extension_text3">
+General recoil control settings</string>
+  <string name="general_rc_extra_component_list_title_conditional_crazy_tap">
+Conditional Crazy Tap</string>
+  <string name="general_rc_gesture_crouch">
+Sit</string>
+  <string name="general_rc_gesture_prone">
+Lie down</string>
+  <string name="general_rc_gesture_stand">
+Stand</string>
+  <string name="general_rc_scope_hipple">
+No</string>
+  <string name="general_rc_scope_x1">
+Aim</string>
+  <string name="go_activate">
+Activate</string>
+  <string name="go_adb_manage_view_main_page_view">
+Activate</string>
+  <string name="go_permission_manage_view_main_page_view">
+Grant permissions</string>
+  <string name="gps_required">Your device does not have GPS, so Bluetooth cannot be updated. Use a device with GPS.</string>
+  <string name="hardware_update">
+Update firmware</string>
+  <string name="hardware_update_prompt">
+A new software version is available. Upgrading to the latest software version is highly recommended. Redirect to firmware upgrade tool?</string>
+  <string name="help">
+Help</string>
+  <string name="hide_bottom_view_on_scroll_behavior">
+com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+  <string name="http_decryption_error">
+No</string>
+  <string name="http_response_error">
+The data returned is incorrect</string>
+  <string name="icon_content_description">
+Dialog box icon</string>
+  <string name="import_failed">
+Import failed</string>
+  <string name="import_success">
+Imported successfully</string>
+  <string name="importing">
+import</string>
+  <string name="item_view_role_description">
+Card</string>
+  <string name="jiayingyouxiting">
+GAMWING 2 PRO</string>
+  <string name="joystick_component_settings_view_quick_stop">
+Return the joystick to the center position when pressing the opposite direction</string>
+  <string name="joystick_settings_help1">
+This option can set the number of steps the joystick needs to take each time it moves to a specified location. If the joystick freezes or the joystick is used abnormally, you can try adjusting this option. You should use the default value</string>
+  <string name="joystick_settings_help2">
+"Radius: Joystick movement radius, can also be modified by dragging the indicator shade on the main interface of the keymap editor
+Slow response: After each button press, the joystick will delay the response time, you should set it to 0"</string>
+  <string name="joystick_settings_help3">
+"Press and hold: convert radius when pressing the binding key and restore when released
+Click: toggle or restore radius when binding key is pressed"</string>
+  <string name="joystick_settings_hotkey_customize_down">
+Go back:</string>
+  <string name="joystick_settings_hotkey_customize_left">
+Left:</string>
+  <string name="joystick_settings_hotkey_customize_right">
+Right:</string>
+  <string name="joystick_settings_hotkey_customize_up">Moving forward:</string>
+  <string name="joystick_settings_hotkey_type_customized">
+Customize</string>
+  <string name="joystick_settings_prompt">
+Install the joystick</string>
+  <string name="joystick_settings_text1">
+Radius</string>
+  <string name="joystick_settings_text10">
+WASD</string>
+  <string name="joystick_settings_text11">
+Arrow</string>
+  <string name="joystick_settings_text12">
+Total number of moves</string>
+  <string name="joystick_settings_text13">
+Click</string>
+  <string name="joystick_settings_text2">
+Late response</string>
+  <string name="joystick_settings_text3">
+Radius</string>
+  <string name="joystick_settings_text4">
+Switch radius mode</string>
+  <string name="joystick_settings_text5">
+Long press</string>
+  <string name="joystick_settings_text6">
+There is no switch</string>
+  <string name="joystick_settings_text7">
+Switch radius key:</string>
+  <string name="joystick_settings_text8">
+Conversion rate</string>
+  <string name="joystick_settings_text9">
+Control type</string>
+  <string name="jy_sc_name">
+Jiaying Gaming Tool</string>
+  <string name="key_text1">
+Mouse-L</string>
+  <string name="key_text10">
+L-Ctrl</string>
+  <string name="key_text11">
+L-Shift</string>
+  <string name="key_text12">Caps</string>
+  <string name="key_text13">
+L-Alt</string>
+  <string name="key_text14">
+BackSpace</string>
+  <string name="key_text15">
+Come back</string>
+  <string name="key_text16">
+R displacement</string>
+  <string name="key_text17">
+R-Alt</string>
+  <string name="key_text18">
+Paste</string>
+  <string name="key_text19">
+Ctrl-R</string>
+  <string name="key_text2">
+Mouse-R</string>
+  <string name="key_text20">
+Space</string>
+  <string name="key_text21">
+Screenshot</string>
+  <string name="key_text22">
+Roll lock</string>
+  <string name="key_text23">
+Pause</string>
+  <string name="key_text24">
+PageUp</string>
+  <string name="key_text25">
+PageDown</string>
+  <string name="key_text26">
+Yes</string>
+  <string name="key_text27">
+Left</string>
+  <string name="key_text28">
+Down</string>
+  <string name="key_text29">
+Up</string>
+  <string name="key_text3">
+Mouse-M</string>
+  <string name="key_text30">Digital lock</string>
+  <string name="key_text31">
+Shoulder</string>
+  <string name="key_text32">
+Joystick</string>
+  <string name="key_text33">
+Button</string>
+  <string name="key_text4">
+Mouse1</string>
+  <string name="key_text5">
+Mouse2</string>
+  <string name="key_text6">
+Mouse3</string>
+  <string name="key_text7">
+Mouse4</string>
+  <string name="key_text8">
+Scroll down</string>
+  <string name="key_text9">
+Scroll up</string>
+  <string name="key_text_empty">
+Blank</string>
+  <string name="key_text_error">
+Error</string>
+  <string name="key_text_unknown">
+Not determined</string>
+  <string name="key_type_bind_key">
+Keys</string>
+  <string name="key_type_shadow">
+Touch</string>
+  <string name="keymap_component_middle_text_trigger_recoil_control">
+Activate anti-shock</string>
+  <string name="keymap_component_settings_intro_title">
+Introduction</string>
+  <string name="keymap_component_text10">
+Unnamed</string>
+  <string name="keymap_component_text3">
+Not determined</string>
+  <string name="keymap_component_text4">
+Unnamed macro</string>
+  <string name="keymap_component_text5">Pointer</string>
+  <string name="keymap_component_text6">
+See</string>
+  <string name="keymap_component_text7">
+Scroll</string>
+  <string name="keymap_component_text8">
+End</string>
+  <string name="keymap_component_text9">
+Show floating shadow</string>
+  <string name="keymap_editor_error_keymap_broken">
+Some keymap elements cannot be displayed because the data is incorrect.</string>
+  <string name="keymap_editor_error_version_too_low">
+Some keymap elements could not be displayed, possibly because the app version is too low.</string>
+  <string name="keymap_editor_error_with_info">
+Unable to display some keymap elements, error information:</string>
+  <string name="keymap_editor_fps_component">
+See ingredients</string>
+  <string name="keymap_editor_joystick_component">
+Joystick</string>
+  <string name="keymap_editor_only_one_prmopt">
+You Can Only Add One %1$s</string>
+  <string name="keymap_editor_scroll_component">
+Roll component</string>
+  <string name="keymap_editor_select_type_btn_joystick">
+Joystick</string>
+  <string name="keymap_editor_select_type_btn_press">
+Private button</string>
+  <string name="keymap_editor_select_type_btn_scroll">
+Roll component</string>
+  <string name="keymap_editor_select_type_content">
+Please choose the type you want</string>
+  <string name="keymap_editor_select_type_title">
+Select Type</string>
+  <string name="keymap_editor_text1">
+My keymap</string>
+  <string name="keymap_editor_text2">
+Unable to get mapping version information. Clicking Save may cause some mapping information to be lost.</string>
+  <string name="keymap_editor_text3">
+The mapping map version is higher than the version of this software. Some information in the map may not be loaded.</string>
+  <string name="keymap_editor_tips_double_click_component_to_show_settings">Tip: Double-click the component to display the settings.</string>
+  <string name="keymap_manager_text1">
+Unnamed</string>
+  <string name="keymap_upload_floating_panel_add">
+Add</string>
+  <string name="keymap_upload_floating_panel_dynamic_keymap">
+Dynamic key mapping</string>
+  <string name="keymap_upload_floating_panel_lock_background">
+Unlock</string>
+  <string name="keymap_upload_floating_panel_unlock_background">
+Lock</string>
+  <string name="launch_failed">
+Launch failed</string>
+  <string name="loading">
+Loading...</string>
+  <string name="locale">
+vi</string>
+  <string name="long_press_crouch_settings_view_text1">
+After connecting the keys below, drag them into the squat component of the game. This component allows the user to press and hold the binding key to squat and release to stand up. Smart Squat helps players press the key for a long time to squat accurately without being affected by the game\'s free standing area.</string>
+  <string name="long_press_group_component_settings_view_list_component_title_delay_time">
+Time delay</string>
+  <string name="long_press_group_component_settings_view_list_component_title_position">
+Location</string>
+  <string name="long_press_group_component_settings_view_list_component_title_trigger_component">
+Ingredients</string>
+  <string name="long_press_group_component_settings_view_prompt">
+Components within a long-press activation group can be activated by a long-press. Events and hold down order can be customized. To add an element, drag it into the long-press activation group.</string>
+  <string name="long_press_group_component_settings_view_terminate_mode">
+End mode</string>
+  <string name="long_press_group_component_settings_view_terminate_mode_terminate_all">
+At the same time</string>
+  <string name="long_press_group_component_settings_view_terminate_mode_terminate_last_one">
+Terminate the previous one before activating the new one.</string>
+  <string name="long_press_group_component_settings_view_trigger_mode">
+Activation mode</string>
+  <string name="long_press_group_component_settings_view_trigger_mode_trigger_all">
+Activate all when the time is reached</string>
+  <string name="long_press_group_component_settings_view_trigger_mode_trigger_last_one">
+Last activated</string>
+  <string name="ly_name">Lie Ying</string>
+  <string name="ly_pro_name">
+Lie Ying Pro</string>
+  <string name="lz3_name">
+LingZha3</string>
+  <string name="m3_exceed_max_badge_text_suffix">
+%1$s%2$s</string>
+  <string name="m3_ref_typeface_brand_medium">
+sans-serif-medium</string>
+  <string name="m3_ref_typeface_brand_regular">
+sans-serif</string>
+  <string name="m3_ref_typeface_plain_medium">
+sans-serif-medium</string>
+  <string name="m3_ref_typeface_plain_regular">
+sans-serif</string>
+  <string name="m3_sys_motion_easing_emphasized">
+path(M 0.0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+  <string name="m3_sys_motion_easing_emphasized_accelerate">
+cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+  <string name="m3_sys_motion_easing_emphasized_decelerate">
+cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+  <string name="m3_sys_motion_easing_emphasized_path_data">
+M 0.0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+  <string name="m3_sys_motion_easing_legacy">
+cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+  <string name="m3_sys_motion_easing_legacy_accelerate">
+cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+  <string name="m3_sys_motion_easing_legacy_decelerate">
+cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+  <string name="m3_sys_motion_easing_linear">
+cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+  <string name="m3_sys_motion_easing_standard">
+cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+  <string name="m3_sys_motion_easing_standard_accelerate">
+cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+  <string name="m3_sys_motion_easing_standard_decelerate">
+cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
+  <string name="macro">
+Macros</string>
+  <string name="macro_operation_editor_side_button_text_move_joystick">Move Joystick</string>
+  <string name="macro_operation_editor_side_button_text_trigger_rc">
+Hold your mind</string>
+  <string name="macro_operation_editor_text1">
+Edit macros</string>
+  <string name="macro_operation_editor_text2">
+Press+Release</string>
+  <string name="macro_operation_editor_text3">
+Swipe</string>
+  <string name="macro_operation_editor_text4">
+Sleep</string>
+  <string name="macro_operation_editor_text5">
+Show mouse</string>
+  <string name="macro_operation_editor_text6">
+Reset view</string>
+  <string name="macro_operation_editor_text7">
+6-3/8-4</string>
+  <string name="macro_operation_editor_text8">
+Press</string>
+  <string name="macro_operation_editor_text9">
+Target identification</string>
+  <string name="macro_operation_editor_text_reset_joystick">
+Reset the joystick.</string>
+  <string name="macro_operation_view_change_position">
+Edit location</string>
+  <string name="macro_operation_view_click_duration">
+Duration (ms)</string>
+  <string name="macro_operation_view_click_text1">
+Press</string>
+  <string name="macro_operation_view_perform_aiming_recognition_text1">
+Target identification</string>
+  <string name="macro_operation_view_perform_aiming_recognition_text2">
+Latency (ms)</string>
+  <string name="macro_operation_view_press">
+Press</string>
+  <string name="macro_operation_view_release">
+Released</string>
+  <string name="macro_operation_view_reset_joystick">
+Reset the joystick</string>
+  <string name="macro_operation_view_reset_view">Reset perspective</string>
+  <string name="macro_operation_view_sleep">
+Sleep</string>
+  <string name="macro_operation_view_sleep_time">
+Sleep duration (ms)</string>
+  <string name="macro_operation_view_swipe">
+Swipe</string>
+  <string name="macro_operation_view_swipe_text1">
+Type</string>
+  <string name="macro_operation_view_swipe_text2">
+One-way</string>
+  <string name="macro_operation_view_swipe_text3">
+Detour</string>
+  <string name="macro_operation_view_switch_scope">
+Switch range</string>
+  <string name="macro_operation_view_switch_scope_text1">
+Type</string>
+  <string name="macro_operation_view_switch_scope_text2">
+Transfer 63/84</string>
+  <string name="macro_operation_view_switch_scope_text3">
+AS 6/8</string>
+  <string name="macro_operation_view_switch_scope_text4">
+AS 3/4</string>
+  <string name="macro_operation_view_text1">
+Release at the last pressed position</string>
+  <string name="macro_operation_view_text2" formatted="false">
+Swipe words. (%d, %d) to (%d, %d)</string>
+  <string name="macro_operation_view_trigger_operation">
+Activate at (%1$d, %2$d)</string>
+  <string name="macro_operation_view_trigger_recoil_control_button_group_start">
+Get started</string>
+  <string name="macro_operation_view_trigger_recoil_control_button_group_stop">
+Stop</string>
+  <string name="macro_operation_view_trigger_recoil_control_header">
+Activate recoil control</string>
+  <string name="macro_operation_view_trigger_recoil_control_type">
+Type</string>
+  <string name="macro_settings_prompt">
+Macro refers to the activation of multiple operations combined to complete a series of operations by pressing a key</string>
+  <string name="macro_settings_text1">Macro name</string>
+  <string name="macro_settings_text10">
+Share</string>
+  <string name="macro_settings_text11">
+Enter</string>
+  <string name="macro_settings_text12">
+Down/Up</string>
+  <string name="macro_settings_text13">
+Please enter reminder here (optional)</string>
+  <string name="macro_settings_text14">
+Please enter the sharing code</string>
+  <string name="macro_settings_text15">
+Macro Tutorial</string>
+  <string name="macro_settings_text16">
+"This guide is only displayed once, please take a screenshot for later reference.
+How to use this macro:
+"</string>
+  <string name="macro_settings_text17">
+After the user imports a macro from the shared code, a prompt may be displayed to the user to inform the user how to further set up macros for different devices. If you want to display a reminder, you can fill in the reminder content in the input box below.</string>
+  <string name="macro_settings_text2">
+Macro activation key</string>
+  <string name="macro_settings_text3">
+Termination key</string>
+  <string name="macro_settings_text4">
+Type</string>
+  <string name="macro_settings_text5">
+Press the key</string>
+  <string name="macro_settings_text6">
+Click the key</string>
+  <string name="macro_settings_text7">
+Loop</string>
+  <string name="macro_settings_text8">
+Macro manipulation</string>
+  <string name="macro_settings_text9">
+Edit</string>
+  <string name="macro_terminate">
+Terminate macros</string>
+  <string name="macro_terminate_settings_view_sc_text1">
+Macro will be terminated/disabled when pressed</string>
+  <string name="macro_terminate_settings_view_sc_text2">
+Link macros</string>
+  <string name="macro_terminate_settings_view_sc_text3">Macros are not bound</string>
+  <string name="macro_terminate_settings_view_sc_text4">
+Termination type</string>
+  <string name="macro_terminate_settings_view_sc_text5">
+Just stop</string>
+  <string name="macro_terminate_settings_view_sc_text6">
+Terminate + Disable</string>
+  <string name="macro_terminate_settings_view_sc_text7">
+Disabled type</string>
+  <string name="macro_terminate_settings_view_sc_text8">
+Press</string>
+  <string name="macro_terminate_settings_view_sc_text9">
+Switch</string>
+  <string name="main_activity_alert_content_unsupported_version_detected_redirect_to_activation_another_phone">
+Detected you are using Android 9 or lower version. This Android version is too old and we no longer support it. But don\'t worry, you can still activate another phone with this phone. Click OK to go to the other phone activation page. Click Exit to exit the application.</string>
+  <string name="main_activity_text1">
+There is a new update. Please visit ftmobile.net/gamwing to download the latest version to your device.</string>
+  <string name="main_activity_text2">
+Contact GAMWING to ask about the update first</string>
+  <string name="main_activity_text3">
+There is a new version</string>
+  <string name="main_activity_text4">
+Don\'t update yet</string>
+  <string name="main_activity_text5">
+Update log:</string>
+  <string name="main_page">
+Main page</string>
+  <string name="main_page_view_reason_of_ads">
+We are spending more than 15,000 USD per month on GAMWING 2 PRO (server fees, internet fees, advertising fees, salaries, etc.). Even though maintaining this app is expensive, we still want to keep it free for you! Therefore, we may allow some ads to appear. Please enjoy this app and support us!</string>
+  <string name="main_page_view_text1">
+Current equipment: None</string>
+  <string name="main_page_view_text2">
+New software version available</string>
+  <string name="main_page_view_text3">
+Upgrade</string>
+  <string name="main_page_view_text4">
+Switch to Mouse/Keyboard Mode</string>
+  <string name="main_page_view_text5">
+Switch to bluetooth player mode</string>
+  <string name="main_page_view_text6">After switching modes, you need to restart the APP, click OK to restart the APP</string>
+  <string name="main_service_text1">
+Hardware disconnected</string>
+  <string name="main_service_text2">
+Error: Unable to Verify Status</string>
+  <string name="main_service_text3">
+Error: Could not get keymap list. error message:</string>
+  <string name="manage_adb_activity_click_to_activate">
+Activate</string>
+  <string name="manage_adb_activity_click_to_open">
+Open</string>
+  <string name="manage_adb_activity_error_prompt_content">
+Discovered that Android cannot pop up the activation prompt box after you tap the activation button. You should press the button again and again. If you still cannot activate it, please turn off debug mode in developer options and then turn it back on.</string>
+  <string name="manage_adb_activity_error_prompt_title">
+Error</string>
+  <string name="manage_adb_activity_jump">
+Turn on</string>
+  <string name="manage_adb_activity_jump_manually">
+Unable to automatically redirect to Developer Options. Click OK to be redirected to settings.</string>
+  <string name="manage_adb_activity_need_prompt_alert_content">
+This is an important step to use this app! Need help with this? Click OK to see instructions!</string>
+  <string name="manage_adb_activity_off">
+Turned off</string>
+  <string name="manage_adb_activity_on">
+Enabled</string>
+  <string name="manage_adb_activity_prompt_connect_to_another_phone">
+3. Connect to another phone via USB cable.</string>
+  <string name="manage_adb_activity_prompt_may_need_to_try_several_times">
+You may need to try a few times until the other phone charges this phone. Please try reconnecting the two phones multiple times until you see the other phone charging this phone.</string>
+  <string name="manage_adb_activity_prompt_open_activate_another_page_step">
+On another phone, on the app\'s main page, tap Add - Activate Another Device and follow the instructions there.</string>
+  <string name="manage_adb_activity_prompt_open_activate_another_phone_page_on_the_other_phone">
+Open the Other Device Activation page on the other phone.</string>
+  <string name="manage_adb_activity_prompt_text_turn_on_adb"></string>
+  <string name="manage_adb_activity_prompt_text_turn_on_development_mode"></string>
+  <string name="manage_adb_activity_prompt_text_turn_on_tcp_port"></string>
+  <string name="manage_adb_activity_prompt_text_wait_for_connection"></string>
+  <string name="manage_adb_activity_redirect_to_tutorial">
+Click me for instructions.</string>
+  <string name="manage_adb_activity_solution">
+Activation status disappears frequently？Click here to see the solution</string>
+  <string name="manage_adb_activity_solution_prompt">
+"Please go to Limit Background Processes option in Settings - Developer Options and select Max 4 Processes..
+Note that some Android versions automatically change the option back to Default Limits after a while. Therefore, you need to re-select Maximum 4 processes later.."</string>
+  <string name="manage_adb_activity_solution_title">
+Solution</string>
+  <string name="manage_adb_activity_step1">
+1. Enable Developer Options from System Settings</string>
+  <string name="manage_adb_activity_step2">
+2. Enable USB debugging from Developer Options</string>
+  <string name="manage_adb_activity_step2_sub">
+Enable all of these options, if applicable</string>
+  <string name="manage_adb_activity_step3">
+3. Connect to the USB activation port on the accessory</string>
+  <string name="manage_adb_activity_step3_sub">
+You need to do this step once after each reboot</string>
+  <string name="manage_adb_activity_step4">
+4. Click to Activate</string>
+  <string name="manage_adb_activity_title">
+Activation assistant</string>
+  <string name="manage_permission_activity_go_get">
+Granted</string>
+  <string name="manage_permission_activity_go_turn_off">
+Turn off</string>
+  <string name="manage_permission_activity_got">
+Granted</string>
+  <string name="manage_permission_activity_off">
+Turn off</string>
+  <string name="manage_permission_activity_subtitle1">
+Necessary permissions</string>
+  <string name="manage_permission_activity_subtitle2">
+Recommended settings</string>
+  <string name="manage_permission_activity_text1">
+Overlay window permissions</string>
+  <string name="manage_permission_activity_text2">
+File read/write permissions</string>
+  <string name="manage_permission_activity_text3">Usage access rights</string>
+  <string name="manage_permission_activity_text4">
+Turn off Battery Saver Mode</string>
+  <string name="manage_permission_activity_text5">
+Commitment to confidentiality</string>
+  <string name="manage_permission_activity_text6">
+The overlay window permission is only used to display a floating window over the game you are playing.</string>
+  <string name="manage_permission_activity_text7">
+Gamwing App uses this permission only to read/write Gamwing App proprietary files. It will not read/modify/delete other application\'s files</string>
+  <string name="manage_permission_activity_text8">
+The Gamwing app only uses this permission to get the name of the foreground app and use it to determine if it is the game the user has chosen to launch. No other usage data will be read or saved</string>
+  <string name="manage_permission_activity_title">
+Permissions management</string>
+  <string name="manage_pubg_rc_data_row_select_data">
+Select</string>
+  <string name="manage_pubg_rc_data_row_title">
+Title</string>
+  <string name="manage_pubg_rc_data_row_undownloaded">
+Not downloaded yet</string>
+  <string name="manage_pubg_rc_data_view_text1">
+Create default</string>
+  <string name="manage_pubg_rc_data_view_text2">
+Enter</string>
+  <string name="manage_pubg_rc_data_view_text3">
+Loading...</string>
+  <string name="manage_pubg_rc_data_view_text4">
+Edit data</string>
+  <string name="material_clock_display_divider">
+:</string>
+  <string name="material_clock_toggle_content_description">
+Select AM or PM</string>
+  <string name="material_hour_24h_suffix">
+%1$s hours</string>
+  <string name="material_hour_selection">
+Select hours</string>
+  <string name="material_hour_suffix">
+%1$s hour</string>
+  <string name="material_minute_selection">
+Select minutes</string>
+  <string name="material_minute_suffix">%1$s minutes</string>
+  <string name="material_motion_easing_accelerated">
+cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+  <string name="material_motion_easing_decelerated">
+cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+  <string name="material_motion_easing_emphasized">
+path(M 0.0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+  <string name="material_motion_easing_linear">
+cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+  <string name="material_motion_easing_standard">
+cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+  <string name="material_slider_range_end">
+End point,</string>
+  <string name="material_slider_range_start">
+starting point,</string>
+  <string name="material_slider_value">
+Value</string>
+  <string name="material_timepicker_am">
+SA</string>
+  <string name="material_timepicker_clock_mode_description">
+Switch to clock mode to enter time.</string>
+  <string name="material_timepicker_hour">
+Now</string>
+  <string name="material_timepicker_minute">
+Minutes</string>
+  <string name="material_timepicker_pm">
+CH</string>
+  <string name="material_timepicker_select_time">
+Choose time</string>
+  <string name="material_timepicker_text_input_mode_description">
+Switch to text input mode to enter the time.</string>
+  <string name="modify">
+Edit</string>
+  <string name="more">
+Add</string>
+  <string name="mtrl_badge_numberless_content_description">
+New announcement</string>
+  <string name="mtrl_checkbox_button_icon_path_checked">
+M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+  <string name="mtrl_checkbox_button_icon_path_group_name">icon. icon</string>
+  <string name="mtrl_checkbox_button_icon_path_indeterminate">
+M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+  <string name="mtrl_checkbox_button_icon_path_name">
+icon path</string>
+  <string name="mtrl_checkbox_button_path_checked">
+M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+  <string name="mtrl_checkbox_button_path_group_name">
+button. button</string>
+  <string name="mtrl_checkbox_button_path_name">
+button path</string>
+  <string name="mtrl_checkbox_button_path_unchecked">
+M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+  <string name="mtrl_checkbox_state_description_checked">
+Checked</string>
+  <string name="mtrl_checkbox_state_description_indeterminate">
+Partially tested</string>
+  <string name="mtrl_checkbox_state_description_unchecked">
+Not tested yet</string>
+  <string name="mtrl_chip_close_icon_content_description">
+Delete %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">
+More than %1$d new announcements</string>
+  <string name="mtrl_exceed_max_badge_number_suffix">
+%1$d%2$s</string>
+  <string name="mtrl_picker_a11y_next_month">
+Move on to the next month</string>
+  <string name="mtrl_picker_a11y_prev_month">
+Go back to last month</string>
+  <string name="mtrl_picker_announce_current_range_selection">
+Select start date: %1$s – Select end date: %2$s</string>
+  <string name="mtrl_picker_announce_current_selection">
+Current selection: %1$s</string>
+  <string name="mtrl_picker_announce_current_selection_none">
+No</string>
+  <string name="mtrl_picker_cancel">
+Cancel</string>
+  <string name="mtrl_picker_confirm">
+OK</string>
+  <string name="mtrl_picker_date_header_selected">%1$s</string>
+  <string name="mtrl_picker_date_header_title">
+Select date</string>
+  <string name="mtrl_picker_date_header_unselected">
+Selected date</string>
+  <string name="mtrl_picker_day_of_week_column_header">
+Date column: %1$s</string>
+  <string name="mtrl_picker_end_date_description">
+End date %1$s</string>
+  <string name="mtrl_picker_invalid_format">
+Invalid format.</string>
+  <string name="mtrl_picker_invalid_format_example">
+For example: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">
+Usage: %1$s</string>
+  <string name="mtrl_picker_invalid_range">
+Invalid range.</string>
+  <string name="mtrl_picker_navigate_to_current_year_description">
+Go to the current year %1$d</string>
+  <string name="mtrl_picker_navigate_to_year_description">
+Jump to year %1$s</string>
+  <string name="mtrl_picker_out_of_range">
+Out of range: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">
+Start date – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">
+%1$s – End date</string>
+  <string name="mtrl_picker_range_header_selected">
+%1$s – %2$s</string>
+  <string name="mtrl_picker_range_header_title">
+Select the range of cells</string>
+  <string name="mtrl_picker_range_header_unselected">
+Start date – End date</string>
+  <string name="mtrl_picker_save">
+Save</string>
+  <string name="mtrl_picker_start_date_description">
+Start date %1$s</string>
+  <string name="mtrl_picker_text_input_date_hint">
+Date</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">
+Start date</string>
+  <string name="mtrl_picker_text_input_day_abbr">
+d</string>
+  <string name="mtrl_picker_text_input_month_abbr">
+m</string>
+  <string name="mtrl_picker_text_input_year_abbr">
+y</string>
+  <string name="mtrl_picker_today_description">
+Today %1$s</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">
+Switch to calendar import mode</string>
+  <string name="mtrl_picker_toggle_to_day_selection">
+Press to switch to day selection mode</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">
+Switch to text input mode</string>
+  <string name="mtrl_picker_toggle_to_year_selection">
+Click to switch to year selection mode</string>
+  <string name="mtrl_switch_thumb_group_name">
+circle_group</string>
+  <string name="mtrl_switch_thumb_path_checked">
+M4,16 A12,12 0 0.1 16.4 H16 A12,12 0 0.1 16.28 H16 A12,12 0 0.1 4.16</string>
+  <string name="mtrl_switch_thumb_path_morphing">
+M0.16 A11.11 0 0.1 11.5 H21 A11.11 0 0.1 21.27 H11 A11.11 0 0.1 0.16</string>
+  <string name="mtrl_switch_thumb_path_name">
+circle. circle</string>
+  <string name="mtrl_switch_thumb_path_pressed">
+M2,16 A14,14 0 0.1 16.2 H16 A14,14 0 0.1 16.30 H16 A14,14 0 0.1 2.16</string>
+  <string name="mtrl_switch_thumb_path_unchecked">
+M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+  <string name="mtrl_switch_track_decoration_path">
+M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+  <string name="mtrl_switch_track_path">
+M0.16 A16.16 0 0.1 16.0 H36 A16.16 0 0.1 36.32 H16 A16.16 0 0.1 0.16</string>
+  <string name="mtrl_timepicker_cancel">
+Cancel</string>
+  <string name="mtrl_timepicker_confirm">
+OK</string>
+  <string name="multifunctional_component_settings_view_sc_text1">Horizontal recoil control</string>
+  <string name="multifunctional_component_settings_view_wangzuo_text1">
+Horizontal recoil control</string>
+  <string name="multifunctional_settings_adjust_rc_value">
+Adjust recoil control value</string>
+  <string name="multifunctional_settings_anti_slow_move">
+Anti-Slow Movement</string>
+  <string name="multifunctional_settings_long_press_crouch">
+Sit smart</string>
+  <string name="multifunctional_settings_switch_floating_ball_display">
+Toggle floating shadow display</string>
+  <string name="multifunctional_settings_switch_rc_panel_display">
+Toggle PUBG dashboard display</string>
+  <string name="multifunctional_settings_trigger_recoil_control">
+Activate recoil control</string>
+  <string name="multiselect">
+Select multiple</string>
+  <string name="mx_name">
+MX200sx</string>
+  <string name="nav_app_bar_navigate_up_description">
+Move up</string>
+  <string name="nav_app_bar_open_drawer_description">
+Open the navigation pane</string>
+  <string name="need_permission">
+License required</string>
+  <string name="need_permission_main_page_view">
+Require necessary permissions</string>
+  <string name="need_permission_prompt">
+For Android 6 and above, using Bluetooth requires location permission. After clicking OK, the system will display a window granting location access permission. Please grant permissions to the location by clicking Allow. If the window does not appear, please manually access settings to grant location access.</string>
+  <string name="no_name">
+No name</string>
+  <string name="none">
+No</string>
+  <string name="normal_touch_point_delay">
+Delay (ms)</string>
+  <string name="normal_touch_point_help1">
+This slider allows you to set the duration of a tap - that is, the amount of time between a simulated finger moving up and down. For example, if set to 100, it will simulate the finger pointing up 100 milliseconds after the finger lowered for each click. You should not set the value below 100 because it will increase the possibility of being banned.</string>
+  <string name="normal_touch_point_help2">
+This slider allows you to set the amount of time between each press. For example, if set to 100, there will be a 100ms delay after each tap before the next tap is triggered. You should not bet below 100 because it will increase the possibility of being banned</string>
+  <string name="normal_touch_point_help3">This switch is turned on to use the eye to rotate or ping the enemy... Everyone can also use it for the same purpose on other functions of the game.</string>
+  <string name="normal_touch_point_help4">
+When this switch is turned on, you can toggle the mouse display state when pressing a hotkey.</string>
+  <string name="normal_touch_point_help5">
+"Toggle activation lock mode: 
+1. Press the key to switch, press the assigned key to switch the mouse pointer lock
+2. Press the key to switch, release the assigned key to switch the mouse pointer lock
+3. Press and hold to toggle, pressing and releasing the assigned key will toggle the mouse cursor lock/unlock state each time."</string>
+  <string name="normal_touch_point_help6">
+When this switch is on, pressing the binding button while releasing the rocker will reactivate the switch. If you find that the joystick does not move after turning it on or off, turn this switch on. And set the latency to be slightly larger than your average network latency.</string>
+  <string name="normal_touch_point_help7">
+When this switch is turned on, the virtual finger simulating viewpoint control will be raised and pressed again when the link button is pressed simultaneously. If you encounter a situation where the observation point does not move after getting in and out of the vehicle, turn on this switch. And set the latency to be slightly larger than your average network latency.</string>
+  <string name="normal_touch_point_help8">
+"Press and hold continuously: Activates press when you press a key, activates release when you release the key
+ Single press: activates when you press a key
+ Short press: Activates pressing when a key is pressed and cancels when the key is released
+ Tap to release: a tap is triggered when the keyboard is pressed and released.
+ Long press activation: Android version coming soon!"</string>
+  <string name="normal_touch_point_key_type">
+Types</string>
+  <string name="normal_touch_point_key_type1">
+Press</string>
+  <string name="normal_touch_point_key_type2">
+Press</string>
+  <string name="normal_touch_point_key_type3">
+Autotap</string>
+  <string name="normal_touch_point_key_type4">
+Tap down/up</string>
+  <string name="normal_touch_point_key_type5">
+Activate Press and hold</string>
+  <string name="normal_touch_point_key_type6">
+Activate the elevator</string>
+  <string name="normal_touch_point_settings_prompt">
+Simulate touch screens with different types to choose from, see more on the GAMWING youtube channel</string>
+  <string name="normal_touch_point_settings_view_sc_text1">
+Name</string>
+  <string name="normal_touch_point_settings_view_sc_text2">
+Number of touch points</string>
+  <string name="normal_touch_point_settings_view_sc_text3">
+Link recoil control</string>
+  <string name="normal_touch_point_text1">
+Press duration (ms)</string>
+  <string name="normal_touch_point_text10">
+Toggle mouse display state activation type</string>
+  <string name="normal_touch_point_text11">
+Press the key</string>
+  <string name="normal_touch_point_text12">Enter key</string>
+  <string name="normal_touch_point_text13">
+Down/Up</string>
+  <string name="normal_touch_point_text14">
+Mouse display position</string>
+  <string name="normal_touch_point_text15">
+Middle</string>
+  <string name="normal_touch_point_text16">
+Customize</string>
+  <string name="normal_touch_point_text17">
+Move the mouse</string>
+  <string name="normal_touch_point_text18">
+Turn on when there are no edges</string>
+  <string name="normal_touch_point_text19">
+Sensitivity</string>
+  <string name="normal_touch_point_text2">
+Press time (ms)</string>
+  <string name="normal_touch_point_text20">
+Target identification</string>
+  <string name="normal_touch_point_text3">
+Long press threshold (ms)</string>
+  <string name="normal_touch_point_text4">
+Enable autotap gun selection</string>
+  <string name="normal_touch_point_text5">
+Added auto-snapping weapons</string>
+  <string name="normal_touch_point_text6">
+Edit</string>
+  <string name="normal_touch_point_text7">
+Reset mouse</string>
+  <string name="normal_touch_point_text8">
+Reset move(A-S-D-W)</string>
+  <string name="normal_touch_point_text9">
+Turn mouse pointer on or off</string>
+  <string name="notification_adb_pairing_failed_title">
+Pairing failed.</string>
+  <string name="notification_adb_pairing_input_paring_code">
+Enter the pairing code.</string>
+  <string name="notification_adb_pairing_retry">
+Try again.</string>
+  <string name="notification_adb_pairing_searching_for_service_title">Please click Pair Device Using Pairing Code in Wireless Debugging Settings. Then go back to enter the pairing code.</string>
+  <string name="notification_adb_pairing_service_found_title">
+Expand this message to enter the pairing code.</string>
+  <string name="notification_adb_pairing_stop_searching">
+Stop the pairing process.</string>
+  <string name="notification_adb_pairing_succeed_text">
+You can activate GAMWING 2 PRO now.</string>
+  <string name="notification_adb_pairing_succeed_title">
+Successful pairing.</string>
+  <string name="notification_adb_pairing_working_title">
+Pairing is in progress.</string>
+  <string name="notification_channel_adb_pairing">
+Wireless debugging pairing.</string>
+  <string name="notification_channel_service_status">
+Service startup status.</string>
+  <string name="notification_service_start_failed">
+Starting the Gamwing service failed.</string>
+  <string name="notification_service_start_no_root">
+Cannot request root permissions.</string>
+  <string name="notification_service_starting">
+Gamwing service is starting...</string>
+  <string name="notification_working">
+Active.…</string>
+  <string name="ok">
+OK</string>
+  <string name="paring_code_is_wrong">
+Pairing code is incorrect..</string>
+  <string name="password_toggle_content_description">
+Show password</string>
+  <string name="paste">
+Paste</string>
+  <string name="path_password_eye">
+M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">
+M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">
+M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">
+M3.27,4.27 L19.74,20.74</string>
+  <string name="permission_required_prompt">Some permissions requested by this app have not been granted. Click OK to be redirected to the authorization tool. You can also manage and grant necessary permissions to this app by clicking More - Manage permissions.</string>
+  <string name="please_connect_wz">
+Please connect with accessories</string>
+  <string name="preferences_main_application">
+MainApplication</string>
+  <string name="preset_macro_list_view_text1">
+Enter Codeword</string>
+  <string name="preset_macro_list_view_text2">
+Import preset Macros</string>
+  <string name="prompt">
+Activate</string>
+  <string name="pubg_bind_horizontal_recoil_control_component_settings_view_text1">
+Enable type</string>
+  <string name="pubg_bind_horizontal_recoil_control_component_settings_view_text2">
+Press</string>
+  <string name="pubg_bind_horizontal_recoil_control_component_settings_view_text3">
+Switch</string>
+  <string name="pubg_component_text_conditional_crazy_tap">
+Crazy Tap</string>
+  <string name="pubg_data_name_grip_ergonomic">
+Ergonomic grip</string>
+  <string name="pubg_data_name_muzzle_brake">
+H.G upgraded</string>
+  <string name="pubg_data_name_muzzle_extender">
+Expand</string>
+  <string name="pubg_data_name_none">
+No</string>
+  <string name="pubg_data_name_text1">
+Reduced recoil</string>
+  <string name="pubg_data_name_text10">
+Bang</string>
+  <string name="pubg_data_name_text11">
+Stand</string>
+  <string name="pubg_data_name_text12">
+Sit</string>
+  <string name="pubg_data_name_text13">
+Lie down</string>
+  <string name="pubg_data_name_text14">
+NS2000</string>
+  <string name="pubg_data_name_text16">No</string>
+  <string name="pubg_data_name_text17">
+Crossbow</string>
+  <string name="pubg_data_name_text18">
+Mosin</string>
+  <string name="pubg_data_name_text19">
+Famas</string>
+  <string name="pubg_data_name_text2">
+Hide sparks</string>
+  <string name="pubg_data_name_text20">
+Thomson</string>
+  <string name="pubg_data_name_text21">
+NS2000</string>
+  <string name="pubg_data_name_text22">
+HB</string>
+  <string name="pubg_data_name_text23">
+Crossbow</string>
+  <string name="pubg_data_name_text24">
+Shield</string>
+  <string name="pubg_data_name_text3">
+Silencer</string>
+  <string name="pubg_data_name_text4">
+T. stands</string>
+  <string name="pubg_data_name_text5">
+Holding a triangle</string>
+  <string name="pubg_data_name_text6">
+T. holds half</string>
+  <string name="pubg_data_name_text7">
+Hold lightly</string>
+  <string name="pubg_data_name_text8">
+Thumb grip</string>
+  <string name="pubg_data_name_text9">
+Laser Tube</string>
+  <string name="pubg_extension_text1">
+PUBG identification settings</string>
+  <string name="pubg_extension_text2">
+Identification is disabled because configuration cannot be loaded</string>
+  <string name="pubg_extension_text3">
+Recognition is disabled because the recognition keymap cannot be pulled</string>
+  <string name="pubg_extension_text4">Recognition is disabled because no recognition keymap is set</string>
+  <string name="pubg_extension_text5">
+Please double-click the control panel after weapon recognition</string>
+  <string name="pubg_extension_text6">
+AI Settings</string>
+  <string name="pubg_extension_text7">
+Error when applying default</string>
+  <string name="pubg_extension_text8">
+Error when dragging keymap</string>
+  <string name="pubg_extension_text9">
+Recognition is disabled. Please select a configuration first</string>
+  <string name="pubg_floating_panel_text1">
+Open and see</string>
+  <string name="pubg_floating_panel_text2">
+Close view</string>
+  <string name="pubg_map_panel_view_text1">
+Turn on recognition</string>
+  <string name="pubg_map_panel_view_text2">
+Accessory identification</string>
+  <string name="pubg_map_panel_view_text3">
+Scope identification</string>
+  <string name="pubg_map_panel_view_text4">
+Accessory dimensions</string>
+  <string name="pubg_map_panel_view_text5">
+Customize resource size</string>
+  <string name="pubg_map_panel_view_text6">
+Gun ruler</string>
+  <string name="pubg_map_panel_view_text7">
+Scope size</string>
+  <string name="pubg_map_panel_view_text8">
+Pre-installation</string>
+  <string name="pubg_preset_recognition_map_view">
+Import preset recognition maps</string>
+  <string name="pubg_settings_header1">
+Basic settings</string>
+  <string name="pubg_settings_header2">
+Identity settings</string>
+  <string name="pubg_settings_header3">
+Adjust sensitivity</string>
+  <string name="pubg_settings_subtitle_no_recoil_control_when_hipple">When this option is on, there will be no control effects when not aiming</string>
+  <string name="pubg_settings_text1">
+Turn on recognition</string>
+  <string name="pubg_settings_text10">
+Hold</string>
+  <string name="pubg_settings_text11">
+Reducing frequency can increase performance</string>
+  <string name="pubg_settings_text12">
+Frequency of weapon identification</string>
+  <string name="pubg_settings_text13">
+Weapon identification level</string>
+  <string name="pubg_settings_text14">
+Scope identification level</string>
+  <string name="pubg_settings_text15">
+Turn on accessory recognition</string>
+  <string name="pubg_settings_text16">
+Accessory identification type</string>
+  <string name="pubg_settings_text17">
+Activate the pocket</string>
+  <string name="pubg_settings_text18">
+Continuously</string>
+  <string name="pubg_settings_text19">
+Frequency of accessory identification</string>
+  <string name="pubg_settings_text2">
+Displays the control panel</string>
+  <string name="pubg_settings_text20">
+Reducing frequency can increase performance</string>
+  <string name="pubg_settings_text21">
+Accessory identification level</string>
+  <string name="pubg_settings_text22">
+White heart</string>
+  <string name="pubg_settings_text23">
+1X</string>
+  <string name="pubg_settings_text24">
+2X</string>
+  <string name="pubg_settings_text25">
+3X</string>
+  <string name="pubg_settings_text26">
+4X</string>
+  <string name="pubg_settings_text27">6X</string>
+  <string name="pubg_settings_text28">
+8X</string>
+  <string name="pubg_settings_text29">
+Asset collection mode</string>
+  <string name="pubg_settings_text3">
+Fixed control panel</string>
+  <string name="pubg_settings_text30">
+Panel transparency</string>
+  <string name="pubg_settings_text31">
+The setting must match the viewfinder mode in use, otherwise the system will not recognize it.</string>
+  <string name="pubg_settings_text32">
+Frequency of AI recognition</string>
+  <string name="pubg_settings_text33">
+Low</string>
+  <string name="pubg_settings_text34">
+Average</string>
+  <string name="pubg_settings_text35">
+High</string>
+  <string name="pubg_settings_text36">
+Extremely high</string>
+  <string name="pubg_settings_text37">
+Important: If the accessory is not recognized, set the PUBG Mobile skin value to 15 or higher.</string>
+  <string name="pubg_settings_text38">
+Set joystick mode</string>
+  <string name="pubg_settings_text39">
+Please match the in-game settings. Mismatch can cause recoil control failure</string>
+  <string name="pubg_settings_text4">
+Adjusted all gun values</string>
+  <string name="pubg_settings_text40">
+Control view when aiming</string>
+  <string name="pubg_settings_text41">
+Please match the in-game settings. Mismatch can cause recoil control failure</string>
+  <string name="pubg_settings_text42">
+Control view when probing</string>
+  <string name="pubg_settings_text43">
+The higher the frequency, the faster the recognition, but it can easily make the device hotter and reduce FPS.</string>
+  <string name="pubg_settings_text44">
+Lower the threshold if the accessory is not recognized, and increase the threshold if it is incorrectly identified. Recommended value: 50–80. If it\'s under 50 and still not recognized, check whether the accessory frame size in smart recognition matches the frame in the game. Size must be consistent.</string>
+  <string name="pubg_settings_text45">AI recognition based on images of weapons, accessories and scopes. Since each server may display different names, please select the correct in-game language for accurate identification. English is recommended.”</string>
+  <string name="pubg_settings_text46">
+This option sets the number of recognition attempts per second. The higher the value, the faster the recognition but can cause the device to heat up and reduce FPS. Low values help reduce device load, but recognition may be slow. High performance devices should increase this option, low performance devices should decrease it. For example, machines with performance like Red Magic 8 or higher can be set to high or extremely high, weaker machines should be set to low or medium.</string>
+  <string name="pubg_settings_text47">
+"“Reduced threshold when weapons are not detected; Increase threshold if misidentified (e.g. Scar to M4). Recommended value: 50–80. If below 50 is still not recognized, follow the steps below:
+1. Check whether the size of the white icon in the weapon identification frame matches the size of the M4 in the game; The positions do not need to be the same.
+2. Check whether the upper left corner of the weapon recognition frame matches the upper left corner of the weapon frame in the game."</string>
+  <string name="pubg_settings_text48">
+Reduced threshold when Scope is not recognized; increase threshold if misidentification (e.g. 6x to 8x). Recommended value: 60–80. If it is still not recognized below 50, check whether the size of the white part in the magnified recognition frame matches the 2x Scope in the game (the position does not need to be the same).</string>
+  <string name="pubg_settings_text49">
+If all weapons\' recoil reduction is too strong, reduce this value; If it\'s not enough, increase it. Note: if only some weapons have uncontrolled recoil, adjust each weapon individually.</string>
+  <string name="pubg_settings_text5">
+Jerk reduction percentage</string>
+  <string name="pubg_settings_text6">
+Data management</string>
+  <string name="pubg_settings_text7">
+Choose game language</string>
+  <string name="pubg_settings_text8">
+Type Scope Identification</string>
+  <string name="pubg_settings_text9">
+Press</string>
+  <string name="pubg_settings_text_enable_recognition">
+Turn on recognition</string>
+  <string name="pubg_settings_title_no_recoil_control_when_hipple">
+Stops recoil control when not aiming.</string>
+  <string name="qe_recognition">
+Lean recognition</string>
+  <string name="rc_data_manage_view_deleting">
+Deleting...</string>
+  <string name="rc_data_manage_view_share">
+Share</string>
+  <string name="rc_data_manage_view_sharing">
+Share</string>
+  <string name="rc_data_manage_view_text1">
+The selected data cannot be deleted</string>
+  <string name="rc_data_manage_view_text10">
+This will delete this data irrevocably, continue?</string>
+  <string name="rc_data_manage_view_text11">
+Shared type</string>
+  <string name="rc_data_manage_view_text12">
+How many times do you want others to enter this code?</string>
+  <string name="rc_data_manage_view_text13">1 time</string>
+  <string name="rc_data_manage_view_text14">
+Many times</string>
+  <string name="rc_data_manage_view_text17">
+Success</string>
+  <string name="rc_data_manage_view_text18">
+Upload failed. Cannot read file</string>
+  <string name="rc_data_manage_view_text19">
+Loading</string>
+  <string name="rc_data_manage_view_text2">
+Delete data</string>
+  <string name="rc_data_manage_view_text22">
+Sharing failed. Cannot read file</string>
+  <string name="rc_data_manage_view_text23">
+Please Save the Share Code (this code will never be displayed again)</string>
+  <string name="rc_data_manage_view_text24">
+Share success</string>
+  <string name="rc_data_manage_view_text25">
+Copy to Clipboard</string>
+  <string name="rc_data_manage_view_text26">
+Rename failed. Could not load file</string>
+  <string name="rc_data_manage_view_text27">
+Rename is disabled</string>
+  <string name="rc_data_manage_view_text28">
+Rename failed. Cannot write file</string>
+  <string name="rc_data_manage_view_text3">
+Select deletion type</string>
+  <string name="rc_data_manage_view_text31">
+Choose success</string>
+  <string name="rc_data_manage_view_text32">
+Data download failed. Reason：</string>
+  <string name="rc_data_manage_view_text33">
+Delete failed. Reason：</string>
+  <string name="rc_data_manage_view_text34">
+Server Communication Error. Reason：</string>
+  <string name="rc_data_manage_view_text35">
+Sharing failed. Reason：</string>
+  <string name="rc_data_manage_view_text36">
+Downloaded</string>
+  <string name="rc_data_manage_view_text37">Not downloaded yet</string>
+  <string name="rc_data_manage_view_text38">
+Not successful</string>
+  <string name="rc_data_manage_view_text39">
+Success</string>
+  <string name="rc_data_manage_view_text4">
+Delete files and server data</string>
+  <string name="rc_data_manage_view_text40">
+Enter</string>
+  <string name="rc_data_manage_view_text41">
+Please enter the sharing code</string>
+  <string name="rc_data_manage_view_text42">
+Entering</string>
+  <string name="rc_data_manage_view_text43">
+Import failed. Reason:</string>
+  <string name="rc_data_manage_view_text44">
+Enter successfully</string>
+  <string name="rc_data_manage_view_text45">
+Edit data</string>
+  <string name="rc_data_manage_view_text46">
+"If clicking \"Delete this article\" If it is invalid, or there is a mistake after adjusting the pressure gun data and automatically changing back to the original data, the data needs to be corrected. 
+Please fill in the sharing code of the data to be repaired in the box below, and a new sharing code will be generated after the repair is completed."</string>
+  <string name="rc_data_manage_view_text47">
+Please save your share code (this share code will not be displayed a second time). Enter the share code to receive the repaired data</string>
+  <string name="rc_data_manage_view_text48">
+Repair</string>
+  <string name="rc_data_manage_view_text6">
+File deletion failed</string>
+  <string name="rc_data_manage_view_text7">
+Delete failed. Reason:</string>
+  <string name="rc_data_manage_view_text8">
+Delete files only</string>
+  <string name="rc_data_manage_view_text9">
+File deletion failed</string>
+  <string name="rc_data_manage_view_upload_failed">
+Upload failed</string>
+  <string name="rc_data_manage_view_uploading">
+Uploading</string>
+  <string name="rc_performer_text1">
+File writing failed</string>
+  <string name="recognition_component_text1">Scope</string>
+  <string name="recognition_component_text10">
+Handle 1</string>
+  <string name="recognition_component_text11">
+Handle 2</string>
+  <string name="recognition_component_text12">
+Bladder 1</string>
+  <string name="recognition_component_text13">
+Bladder 2</string>
+  <string name="recognition_component_text14">
+Weapons 1</string>
+  <string name="recognition_component_text15">
+Weapons 2</string>
+  <string name="recognition_component_text16">
+Internal Error</string>
+  <string name="recognition_component_text17">
+Accessory frame 1</string>
+  <string name="recognition_component_text18">
+Accessory frame 2</string>
+  <string name="recognition_component_text19">
+Note: The height of the accessory identification box must be exactly the same as the height of the in-game accessory box! Otherwise it will not be recognized! !</string>
+  <string name="recognition_component_text2">
+Viewfinder</string>
+  <string name="recognition_component_text20">
+Bullet 1</string>
+  <string name="recognition_component_text21">
+Bullet 2</string>
+  <string name="recognition_component_text22">
+Tilt left</string>
+  <string name="recognition_component_text23">
+Tilt right</string>
+  <string name="recognition_component_text24">
+Please cover the fire button on the left-facing bullet icon in the game</string>
+  <string name="recognition_component_text25">
+Please cover the fire button on the opposite bullet icon right in the game</string>
+  <string name="recognition_component_text26">
+"Alignment steps: 1. Adjust \"scope size\" Adjust the slider on the top panel, and adjust the white text in the frame so that it is the same size as the double mirror in the game
+2. Drag the blue dot in the frame to adjust the size of the double mirror frame, which will be slightly larger than the size of the in-game scope (the position of the white part in the frame does not need to be aligned with the in-game scope).</string>
+  <string name="recognition_component_text27">
+Alignment steps: Please drag it to cover the prone part in the game and use the blue dot in the frame to adjust the size to cover the button in the game</string>
+  <string name="recognition_component_text28">Alignment steps: Please drag it to cover the crouch button in game, and use the blue dot in the frame to adjust the size to cover the button in game</string>
+  <string name="recognition_component_text29">
+Alignment steps: Please drag it to cover the aim button in game, and use the blue dot in the frame to adjust the size to cover the button in game</string>
+  <string name="recognition_component_text3">
+Sit</string>
+  <string name="recognition_component_text30">
+The upper left corner of the weapon recognition frame must be aligned with the upper left corner of the in-game weapon frame, and the size of the white icon inside must be adjusted to the size of the game weapon\'s white icon icon with the slider above, otherwise the weapon will not be recognized!</string>
+  <string name="recognition_component_text4">
+Lie down</string>
+  <string name="recognition_component_text5">
+6</string>
+  <string name="recognition_component_text6">
+6-3</string>
+  <string name="recognition_component_text7">
+Pull Scope</string>
+  <string name="recognition_component_text8">
+Barrel 1</string>
+  <string name="recognition_component_text9">
+Barrel 2</string>
+  <string name="remove">
+Delete</string>
+  <string name="rename">
+Rename</string>
+  <string name="rename_success">
+Rename successfully</string>
+  <string name="reset">
+Reset</string>
+  <string name="retry">
+Try again</string>
+  <string name="return_btn">
+&lt; Return</string>
+  <string name="root_floating_panel_adjust_keymap">
+Edit</string>
+  <string name="root_floating_panel_prmopt_paste_to_browser_to_watch_tutorial">
+The tutorial link has been copied to the clipboard. Paste it into your web browser to view instructions</string>
+  <string name="root_floating_panel_return_app">
+Return to the application</string>
+  <string name="root_floating_panel_select_keymap">
+Select Configuration</string>
+  <string name="root_floating_panel_settings">Install</string>
+  <string name="root_floating_panel_switch_grabbing_keyboard">
+Keyboard typing</string>
+  <string name="root_floating_panel_switch_grabbing_keyboard_toast_error">
+Error when switching typing mode</string>
+  <string name="root_floating_panel_switch_grabbing_keyboard_toast_now_grabbing">
+Now you can play games with your keyboard</string>
+  <string name="root_floating_panel_switch_grabbing_keyboard_toast_now_released">
+You can now type using your keyboard</string>
+  <string name="root_floating_panel_tutorial">
+Instructions</string>
+  <string name="save">
+Save</string>
+  <string name="save_failed">
+Delete failed</string>
+  <string name="save_success">
+Saved successfully</string>
+  <string name="screen_management_plugin_settings_title">
+Install screen size adjustment tool</string>
+  <string name="screen_management_plugin_settings_title_enable_plugin">
+Enable automatic screen configuration adjustment</string>
+  <string name="screen_management_plugin_settings_view_alert_density_not_correct_content">
+Please enter a density value between 200 and 800</string>
+  <string name="screen_management_plugin_settings_view_alert_size_too_small_content">
+Please enter a size between 500 and 5000</string>
+  <string name="screen_management_plugin_settings_view_alert_width_should_be_smaller_content">
+Width must be less than height. For example: 1080x1920, 1440x2560, 560x720</string>
+  <string name="screen_management_plugin_settings_view_title_enabled">
+Enable automatic screen adjustment</string>
+  <string name="screen_management_plugin_tableview_cell_button_confirm">
+Confirmed</string>
+  <string name="screen_management_plugin_tableview_cell_button_test">
+Check</string>
+  <string name="screen_management_plugin_tableview_cell_density">
+Density</string>
+  <string name="screen_management_plugin_tableview_cell_height">
+Height:</string>
+  <string name="screen_management_plugin_tableview_cell_resolution">
+Screen size:</string>
+  <string name="screen_management_plugin_tableview_cell_width">Width:</string>
+  <string name="scroll_settings_prompt">
+Roll the mouse wheel to simulate dragging your finger on the screen. When the mouse pointer is displayed, the drag operation starts from the mouse pointer\'s position. Otherwise, start at the position where the scroll wheel is mapped</string>
+  <string name="scroll_settings_text1">
+Length</string>
+  <string name="scroll_settings_text2">
+Speed</string>
+  <string name="scroll_settings_text3">
+Invert the Y axis</string>
+  <string name="scroll_settings_text4">
+Return to the center when the limit is over</string>
+  <string name="scroll_settings_text5">
+Scroll from Previous Position</string>
+  <string name="scroll_settings_text6">
+Auto release delay (ms)</string>
+  <string name="search_menu_title">
+Search</string>
+  <string name="searchbar_scrolling_view_behavior">
+com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
+  <string name="searchview_clear_text_content_description">
+Delete text</string>
+  <string name="searchview_navigation_content_description">
+Come back</string>
+  <string name="select">
+Select</string>
+  <string name="select_keymap_container_view_apply_fail">
+Application failed</string>
+  <string name="select_keymap_container_view_apply_success">
+Success</string>
+  <string name="select_keymap_container_view_applying">
+Sign up</string>
+  <string name="select_keymap_container_view_cant_delete_current">
+The selected Keymap cannot be deleted</string>
+  <string name="select_keymap_container_view_confirm_delete_prompt">
+You cannot restore this keymap after deletion. Continue?</string>
+  <string name="select_keymap_container_view_delete_fail">
+Delete failed</string>
+  <string name="select_keymap_container_view_delete_success">
+Success</string>
+  <string name="select_keymap_container_view_deleting">Deleting</string>
+  <string name="select_keymap_container_view_enter_name">
+Please enter a new name</string>
+  <string name="select_keymap_container_view_error_pulling_list">
+Error when pulling keymap list</string>
+  <string name="select_keymap_container_view_get_keymap_fail_restart">
+Error when dragging keymap. Restarting the application may resolve this issue</string>
+  <string name="select_keymap_container_view_import">
+Enter</string>
+  <string name="select_keymap_container_view_import_fail">
+Enter failed</string>
+  <string name="select_keymap_container_view_import_keymap">
+Enter</string>
+  <string name="select_keymap_container_view_import_prompt">
+Please enter the sharing code</string>
+  <string name="select_keymap_container_view_import_success">
+Enter successfully</string>
+  <string name="select_keymap_container_view_importing">
+Entering</string>
+  <string name="select_keymap_container_view_my_config">
+My configuration</string>
+  <string name="select_keymap_container_view_new">
+Create</string>
+  <string name="select_keymap_container_view_official_config">
+Default configuration</string>
+  <string name="select_keymap_container_view_rename_fail">
+Rename failed</string>
+  <string name="select_keymap_container_view_renaming">
+Rename</string>
+  <string name="select_keymap_container_view_save_code_prompt">
+Please save your shared code. This code will never appear again.</string>
+  <string name="select_keymap_container_view_save_to_clipboard">
+Copy to Clipboard</string>
+  <string name="select_keymap_container_view_share_fail">
+Sharing failed</string>
+  <string name="select_keymap_container_view_share_success">
+Success</string>
+  <string name="select_keymap_container_view_sharing">
+Share</string>
+  <string name="select_keymap_table_row_text1">My keymap</string>
+  <string name="select_keymap_table_row_text2">
+Number of creation keys：</string>
+  <string name="select_keymap_table_row_text3">
+Modify date：</string>
+  <string name="settings_key_add_app_list">
+Added Application List</string>
+  <string name="settings_key_basic_settings">
+Basic settings</string>
+  <string name="settings_page_view_customize_pointer_alert_content">
+We recommend that you use a cursor image with a transparent background.</string>
+  <string name="settings_page_view_customize_pointer_alert_title">
+Customize cursor style</string>
+  <string name="settings_page_view_keymap_server">
+Key mapping server</string>
+  <string name="settings_page_view_redirect_touch_header">
+Touch redirection (Supports devices without changing resolution)</string>
+  <string name="settings_page_view_redirect_touch_prompt">
+Once this feature is enabled, touch operations will not interrupt mouse and key operations.</string>
+  <string name="settings_page_view_reset_fail_prompt">
+Reset failed</string>
+  <string name="settings_page_view_reset_prompt">
+This will reset all settings to default, continue?</string>
+  <string name="settings_page_view_reset_success_prompt">
+Success! Click OK to restart the application</string>
+  <string name="settings_page_view_text1">
+Login/Register</string>
+  <string name="settings_page_view_text10">
+Other settings</string>
+  <string name="settings_page_view_text11">
+undetermined</string>
+  <string name="settings_language_title">
+Language</string>
+  <string name="settings_page_view_text12">
+What is broadcast mode?</string>
+  <string name="settings_page_view_text13">
+After enabling this mode, all displays of the GAMWING 2 PRO application will no longer be displayed during Live and screen recording.</string>
+  <string name="settings_page_view_text2">
+Please log in first</string>
+  <string name="settings_page_view_text3">account name</string>
+  <string name="settings_page_view_text4">
+Expiry time:</string>
+  <string name="settings_page_view_text5">
+Buy key and activate Pro</string>
+  <string name="settings_page_view_text6">
+My account</string>
+  <string name="settings_page_view_text7">
+Sign out</string>
+  <string name="settings_page_view_text8">
+Trigger type</string>
+  <string name="settings_page_view_text9">
+Live Stream mode records the screen</string>
+  <string name="settings_view_activate_another_phone">
+Activate another device</string>
+  <string name="settings_view_adb_helper">
+Activation assistant</string>
+  <string name="settings_view_app_version_prompt">
+Application version</string>
+  <string name="settings_view_click_to_refresh_expire_time">
+Please activate first</string>
+  <string name="settings_view_device_info">
+MDKEY Developer | Model：%1$s | System：Android %2$s\\Resolution：%3$s Total memory(MB):%4$d | Available memory(MB):%5$d</string>
+  <string name="settings_view_instagram_account_name">
+@gg_gaming_app</string>
+  <string name="settings_view_instagram_prompt">
+Official Instagram (Click follow)</string>
+  <string name="settings_view_manage_pointer_style">
+Customize mouse style</string>
+  <string name="settings_view_permission_manager">
+Permissions management</string>
+  <string name="settings_view_reset_all_settings">
+Reset all settings</string>
+  <string name="settings_view_twitter_account_name">
+Click to join</string>
+  <string name="settings_view_twitter_prompt">
+Whatsapp group</string>
+  <string name="settings_view_wx_account_name">
+@mDkeyy</string>
+  <string name="settings_view_wx_account_prompt">Contact Purchase / Support</string>
+  <string name="shadow">
+Touch</string>
+  <string name="share">
+Share</string>
+  <string name="share_failed">
+Sharing failed</string>
+  <string name="share_success">
+Share success</string>
+  <string name="shoucuo_permission_needed_prompt">
+Please grant necessary permissions</string>
+  <string name="side_sheet_accessibility_pane_title">
+Side panel</string>
+  <string name="side_sheet_behavior">
+com.google.android.material.sidesheet.SideSheetBehavior</string>
+  <string name="start_game_table_row_text1">
+Delete</string>
+  <string name="start_game_table_row_text2">
+Launch</string>
+  <string name="state_connected">
+Connected</string>
+  <string name="state_not_connected">
+Not connected yet</string>
+  <string name="status_bar_notification_info_overflow">
+999+</string>
+  <string name="str_import">
+Enter</string>
+  <string name="swipe_touch_point_help1">
+"One-way: each time you press the hotkey, simulate a swipe from the start point to the end point.
+Path: each time you press the hotkey, simulate a swipe from the start point to the end point and swap the start point with the end point.
+Mouse binding: each time you press a hotkey, simulate a swipe from the mouse position to the end point (or slide to the end point horizontally, see description of horizontal swipe)"</string>
+  <string name="swipe_touch_point_help2">
+When the horizontal swipe feature is enabled, the slide only slides horizontally, not to the exact end position.</string>
+  <string name="swipe_touch_point_settings_prompt">
+Swipe simulation is an operation when you press a button that will swipe according to the position you set to start and end</string>
+  <string name="swipe_touch_point_text1">
+Claw type</string>
+  <string name="swipe_touch_point_text2">
+One-way</string>
+  <string name="swipe_touch_point_text3">
+Circle</string>
+  <string name="swipe_touch_point_text4">From cursor</string>
+  <string name="swipe_touch_point_text5">
+Swipe horizontally</string>
+  <string name="swipe_touch_point_text6">
+Swipe duration (ms)</string>
+  <string name="swipe_touch_point_text_tap_after_swipe">
+Tap after swiping</string>
+  <string name="swipe_touch_point_text_tap_before_swipe">
+Tap before swiping</string>
+  <string name="switch_floating_ball_display_settings_prompt">
+After using the key, the GAMWING logo will be hidden/shown on the screen</string>
+  <string name="switch_rc_panel_display_component_text1">
+Show conversion table</string>
+  <string name="switch_rc_panel_display_settings_prompt">
+After using the key, the gun identification information panel will be hidden/shown</string>
+  <string name="switch_success">
+Successful conversion</string>
+  <string name="system_generated_settings">
+SystemGeneratedSettings</string>
+  <string name="terminate_area">
+Termination area</string>
+  <string name="touch_input_event_manager_text2">
+Macros</string>
+  <string name="touch_input_event_manager_text3">
+Macro name</string>
+  <string name="touch_input_event_manager_text4">
+HRC</string>
+  <string name="trigger_recoil_control_component_settings_prompt">
+Assign a key to activate recoil control</string>
+  <string name="type_with_colon">
+Type:</string>
+  <string name="unknown">
+Don\'t know</string>
+  <string name="unknown_error">
+Unknown error</string>
+  <string name="upload">
+Upload</string>
+  <string name="user_settings_view_title">
+Install</string>
+  <string name="write_file_failed">Cannot write file</string>
+  <string name="zhanying_name">
+ZhanYing</string>
+  <string name="firebase_api_key">
+AIzaSyDWU1GN39Xf3byzHoLrI1t0PQ3bK89CN9k</string>
+  <string name="firebase_project_id">
+gamwing-ftmobile</string>
+  <string name="fps_view_settings_lock_sensitivity">
+Lock horizontal and vertical sensitivity</string>
+  <string name="free_look_gyro_bomb_enabled">
+Bombing with gyro</string>
+  <string name="free_look_gyro_connected">
+Connected to gyro module</string>
+  <string name="free_look_gyro_distance_crouch">
+Eye-pulling distance when sitting</string>
+  <string name="free_look_gyro_distance_prone">
+Eye pulling distance when lying down</string>
+  <string name="free_look_gyro_distance_stand">
+Eye pulling distance when standing</string>
+  <string name="free_look_gyro_pull_distance">
+Pull distance</string>
+  <string name="free_look_gyro_speed">
+Gyro speed</string>
+  <string name="gyro_settings_title">
+Gyroscope (Gyro)</string>
+  <string name="pubg_gyro_camera_aim_with_gyro">
+Pull the center with Gyro</string>
+  <string name="pubg_gyro_camera_always_on">
+Always on</string>
+  <string name="pubg_gyro_camera_enabled">
+Control the viewing angle with Gyro</string>
+  <string name="pubg_gyro_camera_fire_only">
+Only when shooting</string>
+  <string name="pubg_gyro_camera_invert">
+Gyro reverse</string>
+  <string name="pubg_gyro_camera_invert_horizontal">
+Gyro turns sideways</string>
+  <string name="pubg_gyro_camera_invert_vertical">
+Gyro rotates vertically</string>
+  <string name="pubg_gyro_camera_keep_touch">Keep the touch intact</string>
+  <string name="pubg_gyro_camera_speed">
+Gyro speed</string>
+  <string name="pubg_settings_text_driving_threshold">
+Driver identification level</string>
+  <string name="pubg_gyro_camera_acceleration">
+Gyro acceleration</string>
+  <string name="pubg_gyro_camera_toggle_mode">
+Gyro key mode</string>
+  <string name="pubg_gyro_camera_toggle_mode_press">
+Press</string>
+  <string name="pubg_gyro_camera_toggle_mode_hold">
+Press and hold</string>
+  <string name="pubg_settings_camera_gyro_off_nogun">
+Turn off gyro when not holding a weapon</string>
+  <string name="free_look_initial_pull_down">
+Aim Pull Distance</string>
+  <string name="free_look_nade_diag_left_angle">
+Diagonal-Left Aim Pull (°)</string>
+  <string name="free_look_nade_gyro_mode">
+Throwables via Gyro</string>
+  <string name="free_look_prone_pull_down">
+Aim pull distance when prone</string>
+  <string name="free_look_scroll_adjust">
+Mouse Scroll Distance Control</string>
+  <string name="free_look_scroll_step">
+Scroll Wheel Sensitivity</string>
+  <string name="pubg_settings_text50">
+Ammo Empty Detection Threshold</string>
+  <string name="pubg_settings_text51">
+Higher = harder to trigger. If auto-tap does not stop when exiting the ammo, lower this value. If it stops too early (still has ammo), raise it. Default 34.</string>
+  <string name="drive_detect_title">
+Detect driving</string>
+  <string name="drive_icon_size_title">
+Driving icon size</string>
+  <string name="drive_reset_delay_title">
+Reset delay (ms)</string>
+  <string name="drive_reset_joystick_title">
+Reset joystick when entering/exiting vehicle</string>
+  <string name="drive_reset_view_title">Reset aim when entering/exiting vehicle</string>
+  <string name="drive_threshold_title">
+Driving detection threshold</string>
+  <string name="gyro_off_driving">
+Turn off gyro while driving</string>
+  <string name="drive_region_label">
+Car icons</string>
+  <string name="driving_status">
+Driving</string>
+  <string name="m_fix_touch">
+Fix touch offset (external fullscreen view)</string>
+  <string name="m_fix_touch_restart">
+App restart required to apply the Fix touch offset change. Tap Confirm to restart.</string>
+  <string name="m_fix_touch_sub">
+Enable if touch coordinates are offset in-game</string>
+  <string name="arrow_icon_size_title">
+Arrow icon size</string>
+  <string name="arrow_up_region_label">
+Arrow up</string>
+  <string name="arrow_left_region_label">
+Arrow left</string>
+  <string name="arrow_right_region_label">
+Arrow right</string>
+  <string name="arrow_down_region_label">
+Arrow down</string>
+  <string name="drive_wasd_handoff_title">
+Switch joystick to WASD driving controls</string>
+  <string name="gyro_connection_method">
+Gyro connection method</string>
+  <string name="gyro_connection_module">
+Gyro Module</string>
+  <string name="gyro_connection_no_module">
+Gyro No Module</string>
+  <string name="gyro_mode_off">
+Off</string>
+  <string name="gyro_mode_fire_only">
+Fire only</string>
+  <string name="gyro_mode_always_on">
+Always on</string>
+  <string name="gyro_module_install_title">Install Gyro Module</string>
+  <string name="gyro_module_install_button">
+Install</string>
+</resources>

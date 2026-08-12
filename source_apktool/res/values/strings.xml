@@ -47,6 +47,9 @@ Nếu thiết bị này hiển thị yêu cầu cho phép truy cập vào các t
     <string name="activity_login_text3">Vui lòng nhập số đ.thoại</string>
     <string name="activity_login_text4">Xác minh và Đăng nhập</string>
     <string name="activity_login_text5">Tôi đã đọc và đồng ý với \"Thỏa thuận người dùng\" và \"Chính sách bảo mật\"</string>
+    <string name="activity_login_email_hint">Email</string>
+    <string name="activity_login_password_hint">Mật khẩu</string>
+    <string name="activity_login_google">Đăng nhập bằng Google</string>
     <string name="activity_manage_adb_root_text1">Kích hoạt gốc</string>
     <string name="activity_manage_adb_root_text2">Nhấp để Kích hoạt</string>
     <string name="activity_manage_adb_root_text3">Nếu quá trình kích hoạt không thành công, vui lòng kiểm tra xem bạn đã cấp full quyền cho ứng dụng chưa</string>
@@ -1111,6 +1114,7 @@ Vui lòng điền mã chia sẻ của dữ liệu cần sửa chữa vào ô dư
     <string name="settings_page_view_text1">Đăng nhập/Đăng ký</string>
     <string name="settings_page_view_text10">Các thiết lập khác</string>
     <string name="settings_page_view_text11">không xác định</string>
+    <string name="settings_language_title">Ngôn ngữ</string>
     <string name="settings_page_view_text12">Chế độ truyền phát là gì?</string>
     <string name="settings_page_view_text13">Sau khi bật chế độ này, tất cả các hiển thị của ứng dụng GAMWING 2 PRO sẽ không được hiển thị khi Live và quay màn hình nữa.</string>
     <string name="settings_page_view_text2">Vui lòng đăng nhập trước</string>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activation_mode">
+        <item>Wired/Computer</item>
+        <item>Wireless</item>
+        <item>Root</item>
+        <item>Device-by-Device</item>
+        <item>Shizuku</item>
+    </string-array>
+    <array name="initial_horizontal_dynamic_rc_value_slider_values">
+        <item>0.0</item>
+        <item>6.0</item>
+    </array>
+    <array name="initial_vertical_dynamic_rc_value_slider_values">
+        <item>0.0</item>
+        <item>100.0</item>
+    </array>
+    <string-array name="language_list">
+        <item>English (United Kingdom)</item>
+        <item>Use system language</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+</resources>

@@ -227,66 +227,32 @@
 .method private getCurrentAppLanguage()LA6/e$b;
     .locals 2
 
-    sget v0, Lcom/zjx/jyandroid/e$k;->r7:I
-
-    invoke-static {v0}, Lcom/zjx/jyandroid/base/util/b;->B(I)Ljava/lang/String;
+    invoke-static {}, LA6/e;->a0()LA6/e;
 
     move-result-object v0
 
-    const-string v1, "zh-cn"
+    invoke-virtual {v0}, LA6/e;->h()LA6/e$b;
 
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+    move-result-object v0
 
-    move-result v1
-
-    if-eqz v1, :cond_0
+    if-nez v0, :cond_0
 
     sget-object v0, LA6/e$b;->Y:LA6/e$b;
 
     return-object v0
 
     :cond_0
-    const-string v1, "zh-tw"
+    sget-object v1, LA6/e$b;->X:LA6/e$b;
 
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+    if-eq v0, v1, :cond_1
 
-    move-result v1
+    sget-object v1, LA6/e$b;->Z:LA6/e$b;
 
-    if-eqz v1, :cond_1
+    if-eq v0, v1, :cond_1
 
-    sget-object v0, LA6/e$b;->Z:LA6/e$b;
-
-    return-object v0
+    sget-object v0, LA6/e$b;->Y:LA6/e$b;
 
     :cond_1
-    const-string v1, "en"
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-eqz v1, :cond_2
-
-    sget-object v0, LA6/e$b;->X:LA6/e$b;
-
-    return-object v0
-
-    :cond_2
-    const-string v1, "pt"
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_3
-
-    sget-object v0, LA6/e$b;->V1:LA6/e$b;
-
-    return-object v0
-
-    :cond_3
-    const/4 v0, 0x0
-
     return-object v0
 .end method
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_list">
+        <item>Tiếng Anh (Vương quốc Anh)</item>
+        <item>Dùng ngôn ngữ hệ thống</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+</resources>
